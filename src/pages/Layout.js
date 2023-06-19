@@ -4,7 +4,7 @@ import Footer from '../component/Footer'
 import Sports from './Sports'
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import Home from './Home'
-import Detailes from './Detailes'
+import Details from './Details'
 
 
 const Layout = () => {
@@ -14,7 +14,7 @@ const Layout = () => {
     <Routes>
         <Route path='/' Component={Home}/>
         <Route path='/sports' Component={Sports}/>
-        <Route path='/detailes' Component={Detailes}/>
+        <Route path='/details' Component={Details}/>
     </Routes>
     <Footer/>
     </BrowserRouter>
