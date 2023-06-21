@@ -1,10 +1,16 @@
 import React from 'react'
+import Col from 'react-bootstrap/Col';
+import Calendar from './Calender';
+import Weather from './Weather';
+
 
 const Aside = () => {
   return (
-    <div>
+    <Col className='aside col-3 p-2'>
       <h1>Aside</h1>
-    </div>
+      <Weather/>
+      <Calendar/>
+    </Col>
   )
 }
 
