@@ -1,0 +1,594 @@
+[
+  {
+    "id": 1,
+    "type": "breaking",
+    "image": "./image/photo-ala1.jpg",
+    "src-image": "https://pbs.twimg.com/media/Fy-FHr0aUAET757.jpg",
+    "title":"وزير الخارجية الأمريكي أنتوني بلينكن يلتقي الرئيس الصيني شي جين بينغ الإثنين",
+    "description":
+      "قام فريق من الباحثين بتطوير روبوت مذهل يستطيع القفز بمرونة عالية وتنفيذ حركات معقدة بدقة فائقة. هذا الاكتشاف الجديد يعد نقلة نوعية في تقنية الروبوتات.",
+    "source-name": "سي ان ان بالعربية",
+    "source-url":
+      "https://nabd.com/s/121179235-0d64ac/%D8%B9%D8%A7%D8%AC%D9%84..-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D8%A3%D9%86%D8%AA%D9%88%D9%86%D9%8A-%D8%A8%D9%84%D9%8A%D9%86%D9%83%D9%86-%D9%8A%D9%84%D8%AA%D9%82%D9%8A-%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%B5%D9%8A%D9%86%D9%8A-%D8%B4%D9%8A-%D8%AC%D9%8A%D9%86-%D8%A8%D9%8A%D9%86%D8%BA-%D8%A7%D9%84%D8%A5%D8%AB%D9%86%D9%8A%D9%86",
+    "published-datetime": "منذ 20 دقيقة"
+  },
+  {
+    "id": 2,
+    "type": "breaking",
+    "image": "./image/photo-ala1.jpg",
+    "src-image":"https://pbs.twimg.com/profile_images/1612754965872742400/DPq6E7Wh_400x400.jpg",
+     "title":" باكستان تعلن مقتل أكثر من 300 مواطن في غرق مركب مهاجرين قبالة اليونان",
+    "source-name": "سي ان ان بالعربية",
+    "source-url": "https://nabd.com/s/121177870-b4a6c0/%D8%A8%D8%A7%D9%83%D8%B3%D8%AA%D8%A7%D9%86-%D8%AA%D8%B9%D9%84%D9%86-%D9%85%D9%82%D8%AA%D9%84-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-300-%D9%85%D9%88%D8%A7%D8%B7%D9%86-%D9%81%D9%8A-%D8%BA%D8%B1%D9%82-%D9%85%D8%B1%D9%83%D8%A8-%D9%85%D9%87%D8%A7%D8%AC%D8%B1%D9%8A%D9%86-%D9%82%D8%A8%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D9%8A%D9%88%D9%86%D8%A7%D9%86",
+    "published-datetime": "الإثنين، ١٩ يونيو / حزيران ٢٠٢٣"
+  },
+  {
+    "id": 3,
+    "type": "breaking",
+    "image": "./image/photo-ala1.jpg",
+    "src-image":
+      "https://pbs.twimg.com/profile_images/1612754965872742400/DPq6E7Wh_400x400.jpg",
+    "title": "منعط هذا ما قاله كبير المسؤولين الصينيين خلال لقائه بلينكن",
+    "source-name": "سي ان ان بالعربية",
+    "source-url":
+      "https://nabd.com/s/121177837-a0a33b/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D8%AA%D9%8F%D8%B9%D9%84%D9%82-%D8%B9%D9%84%D9%89-%D9%86%D8%AA%D8%A7%D8%A6%D8%AC-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D8%A8%D9%84%D9%8A%D9%86%D9%83%D9%86-%D9%88%D9%83%D8%A8%D9%8A%D8%B1-%D8%A7%D9%84%D8%AF%D8%A8%D9%84%D9%88%D9%85%D8%A7%D8%B3%D9%8A%D9%8A%D9%86-%D8%A7%D9%84%D8%B5%D9%8A%D9%86%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D8%A8%D9%83%D9%8A%D9%86",
+    "published-datetime": "الإثنين، ١٩ يونيو / حزيران ٢٠٢٣ "
+  },
+  {
+    "id": 4,
+    "type": "breaking",
+    "image": "./image/photo-ala1.jpg",
+    "src-image":
+      "https://pbs.twimg.com/profile_images/1612754965872742400/DPq6E7Wh_400x400.jpg",
+      "title": "منعط هذا ما قاله كبير المسؤولين الصينيين خلال لقائه بلينكن",
+    "source-name": "سي ان ان بالعربية",
+    "source-url":
+      "https://nabd.com/s/121177854-555afc/%D9%85%D9%86%D8%B9%D8%B7%D9%81-%D8%AD%D8%B1%D8%AC-..-%D9%87%D8%B0%D8%A7-%D9%85%D8%A7-%D9%82%D8%A7%D9%84%D9%87-%D9%83%D8%A8%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D8%B3%D8%A4%D9%88%D9%84%D9%8A%D9%86-%D8%A7%D9%84%D8%B5%D9%8A%D9%86%D9%8A%D9%8A%D9%86-%D8%AE%D9%84%D8%A7%D9%84-%D9%84%D9%82%D8%A7%D8%A6%D9%87-%D8%A8%D9%84%D9%8A%D9%86%D9%83%D9%86",
+    "published-datetime": "الإثنين، ١٩ يونيو / حزيران ٢٠٢٣ "
+  },
+
+  {
+    "id": 5,
+    "type": "breaking",
+    "image": "https://example.com/picture1.jpg",
+    "src-image":
+      "https://pbs.twimg.com/profile_images/1612754965872742400/DPq6E7Wh_400x400.jpg",
+    "title":
+      "خديجة جنكيز وعائض القرني.. أبرز التعليقات على ظهور سعود القحطاني بعد غياب سنوات",
+    "source-name": "سي ان ان بالعربية",
+    "source-url":
+      "https://nabd.com/s/121176538-04fa1e/%D8%AE%D8%AF%D9%8A%D8%AC%D8%A9-%D8%AC%D9%86%D9%83%D9%8A%D8%B2-%D9%88%D8%B9%D8%A7%D8%A6%D8%B6-%D8%A7%D9%84%D9%82%D8%B1%D9%86%D9%8A..-%D8%A3%D8%A8%D8%B1%D8%B2-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%82%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%B8%D9%87%D9%88%D8%B1-%D8%B3%D8%B9%D9%88%D8%AF-%D8%A7%D9%84%D9%82%D8%AD%D8%B7%D8%A7%D9%86%D9%8A-%D8%A8%D8%B9%D8%AF-%D8%BA%D9%8A%D8%A7%D8%A8-%D8%B3%D9%86%D9%88%D8%A7%D8%AA",
+    "published-datetime": "الإثنين، ١٩ يونيو / حزيران ٢٠٢٣ "
+  },
+
+  {
+    "id": 6,
+    "type": "breaking",
+    "image": "../assets/imagenews/imge6.jpg",
+    "src-image":
+      "https://pbs.twimg.com/profile_images/1612754965872742400/DPq6E7Wh_400x400.jpg",
+    "title": "نجل جمال خاشقجي ينشر صورة قديمة مع والده وهكذا علق عليها   ",
+    "source-name": "سي ان ان بالعربية",
+    "source-url":
+      "https://nabd.com/s/121173611-1ba0c1/%D9%87%D9%84-%D8%A7%D9%84%D8%A3%D8%B1%D8%B6-%D9%83%D8%B1%D9%88%D9%8A%D8%A9-%D8%A3%D9%88-%D9%85%D8%B3%D8%B7%D8%AD%D8%A9%D8%9F-%D8%B1%D8%A7%D8%A6%D8%AF%D8%A7-%D8%A7%D9%84%D9%81%D8%B6%D8%A7%D8%A1-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D9%8A%D9%86-%D8%A7%D9%84%D9%82%D8%B1%D9%86%D9%8A-%D9%88%D8%A8%D8%B1%D9%86%D8%A7%D9%88%D9%8A-%D9%8A%D8%AC%D9%8A%D8%A8%D8%A7%D9%86-%D9%88%D9%85%D8%BA%D8%B1%D8%AF%D9%88%D9%86-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9-%D8%A7%D9%84%D8%A3%D8%AE%D9%8A%D8%B1%D8%A9",
+    "published-datetime": "الإثنين، ١٩ يونيو / حزيران ٢٠٢٣ "
+  },
+  {
+    "id": 7,
+    "type": "breaking",
+    "image": "https://example.com/picture1.jpg",
+    "src-image":
+      "https://pbs.twimg.com/profile_images/1612754965872742400/DPq6E7Wh_400x400.jpg",
+    "title":
+      " هل الأرض كروية أو مسطحة؟ رائدا الفضاء السعوديين القرني وبرناوي يجيبان ",
+    "source-name": "سي ان ان بالعربية",
+    "source-url":
+      "https://nabd.com/s/121176538-04fa1e/%D8%AE%D8%AF%D9%8A%D8%AC%D8%A9-%D8%AC%D9%86%D9%83%D9%8A%D8%B2-%D9%88%D8%B9%D8%A7%D8%A6%D8%B6-%D8%A7%D9%84%D9%82%D8%B1%D9%86%D9%8A..-%D8%A3%D8%A8%D8%B1%D8%B2-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%82%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%B8%D9%87%D9%88%D8%B1-%D8%B3%D8%B9%D9%88%D8%AF-%D8%A7%D9%84%D9%82%D8%AD%D8%B7%D8%A7%D9%86%D9%8A-%D8%A8%D8%B9%D8%AF-%D8%BA%D9%8A%D8%A7%D8%A8-%D8%B3%D9%86%D9%88%D8%A7%D8%AA",
+    "published-datetime": "الإثنين، ١٩ يونيو / حزيران ٢٠٢٣ "
+  },
+  {
+    "id": 8,
+    "type": "breaking",
+    "image": "https://example.com/picture1.jpg",
+    "src-image":
+      "https://pbs.twimg.com/profile_images/1612754965872742400/DPq6E7Wh_400x400.jpg",
+    "title": "تجربة جديدة في عالم الروبوتات تثير الدهشة",
+    "source-url":
+      "https://nabd.com/s/121175943-de61d0/-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88%D9%82%D8%B7%D8%B1-%D8%AA%D8%B9%D9%84%D9%86%D8%A7%D9%86-%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%AA%D9%85%D8%AB%D9%8A%D9%84-%D8%A7%D9%84%D8%AF%D8%A8%D9%84%D9%88%D9%85%D8%A7%D8%B3%D9%8A-%D9%88%D8%A7%D8%B3%D8%AA%D8%A6%D9%86%D8%A7%D9%81-%D8%B9%D9%85%D9%84-%D8%B3%D9%81%D8%A7%D8%B1%D8%AA%D9%8A%D9%87%D9%85%D8%A7",
+    "source-name": "سي ان ان بالعربية",
+    "published-datetime": "الإثنين، ١٩ يونيو / حزيران ٢٠٢٣ "
+  },
+  {
+    "id": 9,
+    "type": "breaking",
+    "image": "https://example.com/picture1.jpg",
+    "src-image":
+      "https://pbs.twimg.com/profile_images/1612754965872742400/DPq6E7Wh_400x400.jpg",
+    "title":
+      "عاجل قرار جديد من وزارة العمل للتسهيل على أصحاب العمل والوافدين - التفاصيل",
+    "source-name": "موقع الوكيل الإخباري",
+    "source-url":
+      "https://nabd.com/source/790-622bae/%D9%85%D9%88%D9%82%D8%B9+%D8%A7%D9%84%D9%88%D9%83%D9%8A%D9%84+%D8%A7%D9%84%D8%A5%D8%AE%D8%A8%D8%A7%D8%B1%D9%8A",
+  },
+  {
+    "id": 10,
+    "type": "breaking",
+    "image": "../assets/imagenews/image10.jpg",
+    "src-image":
+      "https://pbs.twimg.com/profile_images/1612754965872742400/DPq6E7Wh_400x400.jpg",
+    "title": "رئيس الاتحاد الأوروبي ينتقد طريقة استقطاب الأندية السعودية للاعبين",
+    "source-name": "سي ان ان بالعربية",
+    "published-datetime": "الإثنين، ١٩ يونيو / حزيران ٢٠٢٣ ",
+    "source-url":
+      "https://nabd.com/s/121172121-eb201d/%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A-%D9%8A%D9%86%D8%AA%D9%82%D8%AF-%D8%B7%D8%B1%D9%8A%D9%82%D8%A9-%D8%A7%D8%B3%D8%AA%D9%82%D8%B7%D8%A7%D8%A8-%D8%A7%D9%84%D8%A3%D9%86%D8%AF%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%84%D9%84%D8%A7%D8%B9%D8%A8%D9%8A%D9%86",
+  },
+
+  {
+    
+    "id": 11,
+    "type": "word",
+    "image": "../assets/imagenews/image11.jpg",
+    "src-image":"https://mf.b37mrtl.ru/media/pics/2023.06/thumbnail/648f9e244c59b73f832c47ba.jpg",
+    "title": " خلافا للسعودية.. المغرب يعلن الخميس 29 يونيو أول أيام عيد الأضحى",
+    "source-name": "قناة روسيا اليوم",
+    "source-url": "https://nabd.com/source/295-2fa990/%D9%82%D9%86%D8%A7%D8%A9+%D8%B1%D9%88%D8%B3%D9%8A%D8%A7+%D8%A7%D9%84%D9%8A%D9%88%D9%85",
+    "published-datetime": "الإثنين، ١٩ يونيو / حزيران ٢٠٢٣"
+  },
+  {
+    "id": 12,
+    "type": "word",
+    "image": "../assets/imagenews/image12.jpg",
+    "src-image":
+      "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2023/06/14/images/242816.jpg",
+    "title": "تجربة جديدة في عالم الروبوتات تثير الدهشة",
+    "description":
+      "قام فريق من الباحثين بتطوير روبوت مذهل يستطيع القفز بمرونة عالية وتنفيذ حركات معقدة بدقة فائقة. هذا الاكتشاف الجديد يعد نقلة نوعية في تقنية الروبوتات.",
+    "source-name": "سي ان ان بالعربية",
+    "published-datetime": "الإثنين، ١٩ يونيو / حزيران ٢٠٢٣ ",
+    "source-url":
+      "https://nabd.com/source/47-dd694e/%D8%B3%D9%8A+%D8%A7%D9%86+%D8%A7%D9%86+%D8%A8%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9",
+  },
+  {
+    "id": 13,
+    "type": "word",
+    "image": "../assets/imagenews/image13.jpg",
+    "src-image":
+      "https://mf.b37mrtl.ru/media/pics/2023.06/thumbnail/64900ca74236045b1153a0e3.jpg",
+    "title":
+      " خبراء يتحدثون عن تفاصيل مشروع عربي بقيادة مصر وانعكاساته على إسرائيل - عاجل",
+    "description":
+      "قام فريق من الباحثين بتطوير روبوت مذهل يستطيع القفز بمرونة عالية وتنفيذ حركات معقدة بدقة فائقة. هذا الاكتشاف الجديد يعد نقلة نوعية في تقنية الروبوتات.",
+    "source-name": "قناة روسيا اليوم",
+    "source-url":
+      "https://nabd.com/source/295-2fa990/%D9%82%D9%86%D8%A7%D8%A9+%D8%B1%D9%88%D8%B3%D9%8A%D8%A7+%D8%A7%D9%84%D9%8A%D9%88%D9%85",
+    "published-datetime": "الإثنين، ١٩ يونيو / حزيران ٢٠٢٣"
+  },
+  {
+    "id": 14,
+    "type": "word",
+    "image": "../assets/imagenews/image14.jpg",
+    "src-image":
+      "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_118,w_4993,h_2808,c_crop/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2023/06/19/images/243132.jpg",
+    "title": "تجربة جديدة في عالم الروبوتات تثير الدهشة",
+    "description":
+      "قام فريق من الباحثين بتطوير روبوت مذهل يستطيع القفز بمرونة عالية وتنفيذ حركات معقدة بدقة فائقة. هذا الاكتشاف الجديد يعد نقلة نوعية في تقنية الروبوتات.",
+    "source-name": "سي ان ان بالعربية",
+    "source-url":
+      "https://nabd.com/s/121172121-eb201d/%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A-%D9%8A%D9%86%D8%AA%D9%82%D8%AF-%D8%B7%D8%B1%D9%8A%D9%82%D8%A9-%D8%A7%D8%B3%D8%AA%D9%82%D8%B7%D8%A7%D8%A8-%D8%A7%D9%84%D8%A3%D9%86%D8%AF%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%84%D9%84%D8%A7%D8%B9%D8%A8%D9%8A%D9%86",
+    "published-datetime": "الإثنين، ١٩ يونيو / حزيران ٢٠٢٣ "
+  },
+
+  {
+    "id": 15,
+    "type": "word",
+    "image": "../assets/imagenews/image15.webp",
+    "src-image":
+      "https://vid.alarabiya.net/images/2023/06/19/cf3483f7-7cb2-422e-a227-5a2b0c79cbb1/cf3483f7-7cb2-422e-a227-5a2b0c79cbb1_16x9_1200x676.jpg",
+    "title": " بين الصح والخطأ.. مفاهيم شائعة حول تلوين الشعر",
+    "description":
+      "قام فريق من الباحثين بتطوير روبوت مذهل يستطيع القفز بمرونة عالية وتنفيذ حركات معقدة بدقة فائقة. هذا الاكتشاف الجديد يعد نقلة نوعية في تقنية الروبوتات.",
+    "source-name": "قناة روسيا اليوم",
+    "source-url":
+      "https://nabd.com/s/121178618-73f9cc/%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D8%B5%D8%AD-%D9%88%D8%A7%D9%84%D8%AE%D8%B7%D8%A3..-%D9%85%D9%81%D8%A7%D9%87%D9%8A%D9%85-%D8%B4%D8%A7%D8%A6%D8%B9%D8%A9-%D8%AD%D9%88%D9%84-%D8%AA%D9%84%D9%88%D9%8A%D9%86-%D8%A7%D9%84%D8%B4%D8%B9%D8%B1",
+    "published-datetime": "الإثنين، ١٩ يونيو / حزيران ٢٠٢٣ "
+  },
+  {
+    "id": 16,
+    "type": "word",
+    "image": "../assets/imagenews/IMAGE16.webp",
+    "src-image":
+      "https://vid.alarabiya.net/images/2023/06/19/55fda788-e423-4c55-8876-190b7b5c1ccc/55fda788-e423-4c55-8876-190b7b5c1ccc_16x9_1200x676.jpg",
+    "title": "لهذا السبب.. موسكو أسقطت طائرة سويدية وأشعلت أزمة",
+    "source-name": "قناة العربية",
+    "source-url":
+      "https://nabd.com/s/121181777-c5b44e/%D9%84%D9%87%D8%B0%D8%A7-%D8%A7%D9%84%D8%B3%D8%A8%D8%A8..-%D9%85%D9%88%D8%B3%D9%83%D9%88-%D8%A3%D8%B3%D9%82%D8%B7%D8%AA-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-%D8%B3%D9%88%D9%8A%D8%AF%D9%8A%D8%A9-%D9%88%D8%A3%D8%B4%D8%B9%D9%84%D8%AA-%D8%A3%D8%B2%D9%85%D8%A9",
+    "published-datetime": "الإثنين، ١٩ يونيو / حزيران ٢٠٢٣ "
+  },
+  {
+    "id": 17,
+    "type": "word",
+    "image": "https://example.com/picture.jpg",
+    "src-image":
+      "https://mf.b37mrtl.ru/media/pics/2023.06/thumbnail/648fc9234236042d534c7fc2.jpg",
+    "title": "قوات أوكرانية تفقد أكثر من نصف عناصرها على اتجاه يوجنودونيت ",
+     "description":
+      "قام فريق من الباحثين بتطوير روبوت مذهل يستطيع القفز بمرونة عالية وتنفيذ حركات معقدة بدقة فائقة. هذا الاكتشاف الجديد يعد نقلة نوعية في تقنية الروبوتات.",
+    "source-name": "قناة روسيا اليوم",
+    "source-url":
+      "https://nabd.com/s/121171736-f937d1/%D9%82%D9%88%D8%A7%D8%AA-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D8%AA%D9%81%D9%82%D8%AF-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-%D9%86%D8%B5%D9%81-%D8%B9%D9%86%D8%A7%D8%B5%D8%B1%D9%87%D8%A7-%D8%B9%D9%84%D9%89-%D8%A7%D8%AA%D8%AC%D8%A7%D9%87-%D9%8A%D9%88%D8%AC%D9%86%D9%88%D8%AF%D9%88%D9%86%D9%8A%D8%AA%D8%B3%D9%83",
+    "published-datetime": "الإثنين، ١٩ يونيو / حزيران ٢٠٢٣ "
+  },
+  {
+    "id": 18,
+    "type": "word",
+    "image": "../assets/imagenews/image17.jpg",
+    "src-image":
+      "https://mf.b37mrtl.ru/media/pics/2023.06/thumbnail/648fc9234236042d534c7fc2.jpg",
+    "title": "قوات أوكرانية تفقد أكثر من نصف عناصرها على اتجاه يوجنودونيتسك ",
+    "source-name": "قناة روسيا اليوم",
+    "source-url":
+      "https://nabd.com/s/121171736-f937d1/%D9%82%D9%88%D8%A7%D8%AA-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D8%AA%D9%81%D9%82%D8%AF-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-%D9%86%D8%B5%D9%81-%D8%B9%D9%86%D8%A7%D8%B5%D8%B1%D9%87%D8%A7-%D8%B9%D9%84%D9%89-%D8%A7%D8%AA%D8%AC%D8%A7%D9%87-%D9%8A%D9%88%D8%AC%D9%86%D9%88%D8%AF%D9%88%D9%86%D9%8A%D8%AA%D8%B3%D9%83",
+    "published-datetime": "الإثنين، ١٩ يونيو / حزيران ٢٠٢٣ "
+  },
+  {
+    "id": 19,
+    "type": "word",
+    "image": "../assets/imagenews/image17.jpg",
+    "src-image":
+      "https://mf.b37mrtl.ru/media/pics/2023.06/thumbnail/648fc9234236042d534c7fc2.jpg",
+    "title": "قوات أوكرانية تفقد أكثر من نصف عناصرها على اتجاه يوجنودونيت ",
+    "source-name": "قناة روسيا اليوم",
+    "source-url":
+      "https://nabd.com/s/121171736-f937d1/%D9%82%D9%88%D8%A7%D8%AA-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D8%AA%D9%81%D9%82%D8%AF-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-%D9%86%D8%B5%D9%81-%D8%B9%D9%86%D8%A7%D8%B5%D8%B1%D9%87%D8%A7-%D8%B9%D9%84%D9%89-%D8%A7%D8%AA%D8%AC%D8%A7%D9%87-%D9%8A%D9%88%D8%AC%D9%86%D9%88%D8%AF%D9%88%D9%86%D9%8A%D8%AA%D8%B3%D9%83",
+    "published-datetime": "الإثنين، ١٩ يونيو / حزيران ٢٠٢٣ "
+  },
+  {
+    "id": 20,
+    "type": "word",
+    "image": "../assets/imagenews/image20.jpg",
+    "src-image":
+      "https://mf.b37mrtl.ru/media/pics/2023.06/thumbnail/648fc9234236042d534c7fc2.jpg",
+    "title": " شاحنات مسيّرة روسية الصنع تسير في أوتوستراد",
+    "source-name": "قناة روسيا اليوم",
+    "source-url":
+      "https://nabd.com/s/121175146-a6f9e6/3-%D8%B4%D8%A7%D8%AD%D9%86%D8%A7%D8%AA-%D9%85%D8%B3%D9%8A%D9%91%D8%B1%D8%A9-%D8%B1%D9%88%D8%B3%D9%8A%D8%A9-%D8%A7%D9%84%D8%B5%D9%86%D8%B9-%D8%AA%D8%B3%D9%8A%D8%B1-%D9%81%D9%8A-%D8%A3%D9%88%D8%AA%D9%88%D8%B3%D8%AA%D8%B1%D8%A7%D8%AF-%D8%A8%D8%B7%D8%B1%D8%B3%D8%A8%D9%88%D8%B1%D8%BA-%D9%85%D9%88%D8%B3%D9%83%D9%88",
+    "published-datetime": "الإثنين، ١٩ يونيو / حزيران ٢٠٢٣ "
+  },
+
+  {
+    "id": 21,
+    "type": "sport",
+    "image": "../assets/imagenews/image21.webp",
+    "src-image":
+      "https://images.skynewsarabia.com/images/v1/2023/06/19/1630604/1920/1080/1-1630604.jpg",
+    "title": "  تراجع فيمة صلاح 40 بالمئة خلال عام.. لماذا",
+    "source-name": "سكاي نيوز عربية - رياضة",
+    "source-url":
+      "https://nabd.com/s/121173795-332b77/%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D9%81%D9%8A%D9%85%D8%A9-%D8%B5%D9%84%D8%A7%D8%AD-40-%D8%A8%D8%A7%D9%84%D9%85%D8%A6%D8%A9-%D8%AE%D9%84%D8%A7%D9%84-%D8%B9%D8%A7%D9%85..-%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D8%A7%D9%84%D9%87%D8%A8%D9%88%D8%B7-%D8%A7%D9%84%D8%AD%D8%B1-%D8%9F",
+    "published-datetime": "الإثنين، ١٩ يونيو / حزيران ٢٠٢٣ "
+  },
+  {
+    "id": 22,
+    "type": "sport",
+    "image": "../assets/imagenews/image22.jpg",
+    "src-image":
+      "https://mf.b37mrtl.ru/media/pics/2023.06/thumbnail/648fc9234236042d534c7fc2.jpg",
+    "title": "  نادٍ سعودي يغري تير شتيجن بعرض خرافي",
+    "source-name": "سبورت 360",
+    "source-url":
+      "https://nabd.com/s/121159793-c7aba5/%D9%86%D8%A7%D8%AF%D9%8D-%D8%B3%D8%B9%D9%88%D8%AF%D9%8A-%D9%8A%D8%BA%D8%B1%D9%8A-%D8%AA%D9%8A%D8%B1-%D8%B4%D8%AA%D9%8A%D8%AC%D9%86-%D8%A8%D8%B9%D8%B1%D8%B6-%D8%AE%D8%B1%D8%A7%D9%81%D9%8A",
+    "published-datetime": "الإثنين، ١٩ يونيو / حزيران ٢٠٢٣ "
+  },
+  {
+    "id": 23,
+    "type": "sport",
+    "image": "../assets/imagenews/image23.webp",
+    "src-image":
+      "https://images.skynewsarabia.com/images/v1/2023/06/19/1630599/1920/1080/1-1630599.jpg",
+    "title": " مفاجأة النصر.. نجم منتخب المغرب سيكون جوار رونالدو",
+    "source-name": "سكاي نيوز عربية - رياضة",
+    "source-url":
+      "https://nabd.com/s/121172200-9888b1/%D9%85%D9%81%D8%A7%D8%AC%D8%A3%D8%A9-%D8%A7%D9%84%D9%86%D8%B5%D8%B1..-%D9%86%D8%AC%D9%85-%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D8%B3%D9%8A%D9%83%D9%88%D9%86-%D8%AC%D9%88%D8%A7%D8%B1-%D8%B1%D9%88%D9%86%D8%A7%D9%84%D8%AF%D9%88",
+    "published-datetime": "الإثنين، ١٩ يونيو / حزيران ٢٠٢٣ "
+  },
+  {
+    "id": 24,
+    "type": "sport",
+    "image": "../assets/imagenews/image24.jpg",
+    "src-image": "https://media.filgoal.com/news/verylarge/303530_0.jpg",
+    "title": "   عامر حسين: الأهلي سيستمر في اللعب بعد نهاية الدوري.. وفيفا استفسر عن احفتال أفشة ",
+    "source-name": "في الجول",
+    "source-url":
+      "https://nabd.com/s/121167337-03a644/%D8%B9%D8%A7%D9%85%D8%B1-%D8%AD%D8%B3%D9%8A%D9%86-%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A-%D8%B3%D9%8A%D8%B3%D8%AA%D9%85%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D9%84%D8%B9%D8%A8-%D8%A8%D8%B9%D8%AF-%D9%86%D9%87%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A..-%D9%88%D9%81%D9%8A%D9%81%D8%A7-%D8%A7%D8%B3%D8%AA%D9%81%D8%B3%D8%B1-%D8%B9%D9%86-%D8%A7%D8%AD%D9%81%D8%AA%D8%A7%D9%84-%D8%A3%D9%81%D8%B4%D8%A9",
+    "published-datetime": "الإثنين، ١٩ يونيو / حزيران ٢٠٢٣ "
+  },
+
+  {
+    "id": 25,
+    "type": "sport",
+    "image": "../assets/imagenews/image25.jpg",
+    "src-image":
+      "https://media.gemini.media/img/yallakora/Normal//2023/5/26/afsha2023_5_26_21_24.jpg",
+    "title":
+      "  عامر حسين: فيفا استفسر عن احتفال أفشة.. وأحيانا يتم افتعال مشاكل بلا سبب",
+    "source-name": "قناة روسيا اليوم",
+    "source-url":
+      "https://nabd.com/s/121184237-b4fdbf/%D8%B9%D8%A7%D9%85%D8%B1-%D8%AD%D8%B3%D9%8A%D9%86-%D9%81%D9%8A%D9%81%D8%A7-%D8%A7%D8%B3%D8%AA%D9%81%D8%B3%D8%B1-%D8%B9%D9%86-%D8%A7%D8%AD%D8%AA%D9%81%D8%A7%D9%84-%D8%A3%D9%81%D8%B4%D8%A9..-%D9%88%D8%A3%D8%AD%D9%8A%D8%A7%D9%86%D8%A7-%D9%8A%D8%AA%D9%85-%D8%A7%D9%81%D8%AA%D8%B9%D8%A7%D9%84-%D9%85%D8%B4%D8%A7%D9%83%D9%84-%D8%A8%D9%84%D8%A7-%D8%B3%D8%A8%D8%A8",
+    "published-datetime": "الإثنين، ١٩ يونيو / حزيران ٢٠٢٣ "
+  },
+  {
+    "id": 26,
+    "type": "sport",
+    "image": "../assets/imagenews/imge26.jpg",
+    "src-image":
+      "https://pbs.twimg.com/media/Fy-x5XrX0AEXtLe.jpg",
+    "title": " تقارير..خاليدو كوليبالي لاعبا في صفوف الهلال رسميا",
+    "source-name": "صحيفة سبورت السعودية",
+    "source-url":"https://nabd.com/s/121189985-85172c/%D8%AA%D9%82%D8%A7%D8%B1%D9%8A%D8%B1..%D8%AE%D8%A7%D9%84%D9%8A%D8%AF%D9%88-%D9%83%D9%88%D9%84%D9%8A%D8%A8%D8%A7%D9%84%D9%8A-%D9%84%D8%A7%D8%B9%D8%A8%D8%A7-%D9%81%D9%8A-%D8%B5%D9%81%D9%88%D9%81-%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84-%D8%B1%D8%B3%D9%85%D9%8A%D8%A7",
+    "published-datetime": "الإثنين، ١٩ يونيو / حزيران ٢٠٢٣ "
+  },
+  {
+    "id": 27,
+    "type": "sport",
+    "image": "../assets/imagenews//image27.jpg",
+    "src-image":
+      "https://img.btolat.com/2023/6/19/news/319023/large.jpg",
+    "title": "   مدرب كرواتيا: أتمنى عدم اعتزال مودريتش دوليًا",
+    "source-name": "موقع بطولات",
+    "source-url":"https://nabd.com/s/121179348-16d48b/%D9%85%D8%AF%D8%B1%D8%A8-%D9%83%D8%B1%D9%88%D8%A7%D8%AA%D9%8A%D8%A7-%D8%A3%D8%AA%D9%85%D9%86%D9%89-%D8%B9%D8%AF%D9%85-%D8%A7%D8%B9%D8%AA%D8%B2%D8%A7%D9%84-%D9%85%D9%88%D8%AF%D8%B1%D9%8A%D8%AA%D8%B4-%D8%AF%D9%88%D9%84%D9%8A%D9%8B%D8%A7",
+    "published-datetime": "الإثنين، ١٩ يونيو / حزيران ٢٠٢٣ "
+  },
+  {
+    "id": 28,
+    "type": "sport",
+    "image": "../assets/imagenews/image28.jpeg",
+    "src-image":
+      "https://mf.b37mrtl.ru/media/pics/2023.06/thumbnail/648fc9234236042d534c7fc2.jpg",
+    "title": " داليتش: فخور بكرواتيا رغم الهزيمة",
+    "source-name": "صحيفة الشرق الأوسط - رياضة",
+    "source-url":"https://nabd.com/s/121178695-bd17ef/%D8%AF%D8%A7%D9%84%D9%8A%D8%AA%D8%B4-%D9%81%D8%AE%D9%88%D8%B1-%D8%A8%D9%83%D8%B1%D9%88%D8%A7%D8%AA%D9%8A%D8%A7-%D8%B1%D8%BA%D9%85-%D8%A7%D9%84%D9%87%D8%B2%D9%8A%D9%85%D8%A9",
+    "published-datetime": "الإثنين، ١٩ يونيو / حزيران ٢٠٢٣ "
+  },
+  {
+    "id": 29,
+    "type": "sport",
+    "image": "../assets/imagenews/image29.webp",
+    "src-image":
+      "https://vid.alarabiya.net/images/2023/06/19/f6d539d6-e219-49f3-aa68-6f46c543a3cb/f6d539d6-e219-49f3-aa68-6f46c543a3cb_16x9_1200x676.jpg",
+    "title":" بوسكيتس يلحق ميسي إلى إنتر ميامي",
+    "source-name": "قناة العربية - رياضة",
+    "source-url":"https://nabd.com/s/121183867-53fe46/%D8%A8%D9%88%D8%B3%D9%83%D9%8A%D8%AA%D8%B3-%D9%8A%D9%84%D8%AD%D9%82-%D9%85%D9%8A%D8%B3%D9%8A-%D8%A5%D9%84%D9%89-%D8%A5%D9%86%D8%AA%D8%B1-%D9%85%D9%8A%D8%A7%D9%85%D9%8A",
+    "published-datetime": "الإثنين، ١٩ يونيو / حزيران ٢٠٢٣ "
+  },
+  
+  {
+    "id": 31,
+    "type": "economy",
+    "image": "../pages/imagenews/image31.jpg",
+    "src-image": "https://pbs.twimg.com/profile_images/1544546776870518785/Jnq9AiiP_bigger.jpg",
+    "title":" مع تزايد اهتمام الشركات بالمهارات أكثر من الدرجات العلمية.. كيف تبرز ذلك في سيرتك الذاتية؟",
+    "description": "أصبح التوظيف القائم على المهارات أكثر شيوعًا بين الشركات، في مقابل تراجع أهمية الدرجات العلمية والمؤهلات الدراسية قالت سو دوك نائبة الرئيس ورئيسة السياسة العامة العالمية في LinkedIn لـ CNBC إن العديد من الشركات لا تزال تكافح لتعيين الوظائف الشاغرة لديها، والطريقة التي يتعاملون بها حاليًا مع التوظيف قد تجعل هذا الأمر أكثر صعوبة",
+    "source-name": "قناة CNBC عربية",
+    "source-url": " https://nabd.com/source/48-c8ba0f/%D9%82%D9%86%D8%A7%D8%A9+CNBC+%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9",
+    "published-datetime": "الثلاثاء، ٢٠ يونيو / حزيران ٢٠٢٣"
+  },
+   
+  {
+    "id": 32,
+    "type": "economy",
+    "image": "../pages/imagenews/image32.jpg",
+    "src-image": "https://pbs.twimg.com/profile_images/1544546776870518785/Jnq9AiiP_bigger.jpg",
+    "title":"النفط يواصل خسائره بفعل مخاوف النمو الصيني وقوة الدولار",
+    "description": "  واصلت أسعار النفط الأربعاء 21 يونيو حزيران،خسائرها لليوم الثالث على التوالي، على خلفية ارتفاع الدولار بفضل انتعاش سوق الإسكان الأميركية بينما استمرت مخاوف الطلب خشية ألا يكون التحفيز النقدي في الصين كافيا لإنعاش النم وانخفضت العقود الآجلة لخام برنت 21 سنتاً، أو 0.3%، إلى 75.69 دولار للبرميل، وتراجعت العقود        ",
+   "source-name": "قناة CNBC عربية",
+    "source-url": "https://nabd.com/s/121277127-92a43d/%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%8A%D9%88%D8%A7%D8%B5%D9%84-%D8%AE%D8%B3%D8%A7%D8%A6%D8%B1%D9%87-%D8%A8%D9%81%D8%B9%D9%84-%D9%85%D8%AE%D8%A7%D9%88%D9%81-%D8%A7%D9%84%D9%86%D9%85%D9%88-%D8%A7%D9%84%D8%B5%D9%8A%D9%86%D9%8A-%D9%88%D9%82%D9%88%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1",
+    "published-datetime": "الثلاثاء، ٢٠ يونيو / حزيران ٢٠٢٣"
+  },
+  {
+    "id": 33,
+    "type": "economy",
+    "image": "../pages/imagenews/image33.webp",
+    "src-image": "https://pbs.twimg.com/profile_images/1591011149474140160/RoV-tEAR_bigger.jpg",
+    "title":"شل توقع اتفاقية لافتتاح محطات وقود في السعودية",
+    "description": "  وقعت شركةل العالمية، مع مجموعة أسياد القابضة، اتفاقية لافتتاح محطات وقود تحمل العلامة التجارية الخاصة بشركة شل في السعودية، ومن المتوقع افتتاح أولى محطات الوقود في الربع الرابع من هذا العام، 2023، في مدينة الرياض ",
+    "source-name": "قناة CNBC عربية",
+    "source-url": "https://nabd.com/s/121277232-8d88b8/%D8%B4%D9%84-%D8%AA%D9%88%D9%82%D8%B9-%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D9%8A%D8%A9-%D9%84%D8%A7%D9%81%D8%AA%D8%AA%D8%A7%D8%AD-%D9%85%D8%AD%D8%B7%D8%A7%D8%AA-%D9%88%D9%82%D9%88%D8%AF-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9",
+    "published-datetime": "الأربعاء، ٢١ يونيو / حزيران ٢٠٢٣"
+    
+  },
+  {
+    "id": 34,
+    "type": "economy",
+    "image": "../pages/imagenews/image34.jpg",
+    "src-image": "https://pbs.twimg.com/profile_images/1544546776870518785/Jnq9AiiP_bigger.jpg",
+    "title":"مكاسب سوق الأسهم الأميركية تكلف مستثمري البيع على المكشوف 120 مليار دولار  ",
+    "description": "تكبد المستثمرون الذين راهنوا على تراجع الأسهم الأميركية خسائر كبيرة هذا العام، بفعل ارتفاع الأسهم الذي جاء مدعوماً بطفرة أسهم الذكاء الاصطناع",
+    "source-name": "قناة CNBC عربية",
+    "source-url": "https://nabd.com/s/121275157-1b93a4/%D9%85%D9%83%D8%A7%D8%B3%D8%A8-%D8%B3%D9%88%D9%82-%D8%A7%D9%84%D8%A3%D8%B3%D9%87%D9%85-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D8%AA%D9%83%D9%84%D9%81-%D9%85%D8%B3%D8%AA%D8%AB%D9%85%D8%B1%D9%8A-%D8%A7%D9%84%D8%A8%D9%8A%D8%B9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%85%D9%83%D8%B4%D9%88%D9%81-120-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AF%D9%88%D9%84%D8%A7%D8%B1",
+    "published-datetime": "الأربعاء، ٢١ يونيو / حزيران ٢٠٢٣"
+  },
+  {
+    "id": 35,
+    "type": "economy",
+    "image": "../pages/imagenews/image35.jpg",
+    "src-image": "https://pbs.twimg.com/media/FzIoy5CWAAM2vqG.jpg",
+    "title":" الذكاء الاصطناعي التوليدي سيضيف 4.4 تريليون دولار للاقتصاد العالمي",
+    "description": "كشف تقرير لشركة الاستشارات الإدارية ي أن الذكاء الاصطناعي التوليدي قد يضيف إلى الاقتصاد العالمي 4.4 تريليون دولار سنويا في ظل وصول الضجيج حول تلك التكنولوجيا أوجه ",
+    "source-name": "صحيفة الاقتصادية",
+    "source-url": "https://nabd.com/s/121285240-3b5337/%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D8%A7%D9%84%D8%AA%D9%88%D9%84%D9%8A%D8%AF%D9%8A-%D8%B3%D9%8A%D8%B6%D9%8A%D9%81-4.4-%D8%AA%D8%B1%D9%8A%D9%84%D9%8A%D9%88%D9%86-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%84%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A",
+    "published-datetime": "الأربعاء، ٢١ يونيو / حزيران ٢٠٢٣"
+  },
+  {
+    "id": 36,
+    "type": "economy",
+    "image": "../pages/imagenews/image36.webp",
+    "src-image": "https://pbs.twimg.com/profile_images/1544546776870518785/Jnq9AiiP_bigger.jpg",
+    "title":" استقرار معدل التضخم في بريطانيا عند 8.7% على أساس سنوي مخالفاً التوقعات",
+    "description": "استقرار معدل التضخم في بريطانيا عند 8.7% على أساس سنوي مخالفاً التوقعات",
+    "source-name": "قناة CNBC عربية",
+    "source-url": "https://nabd.com/s/121278016-6fb4c2/%D8%A7%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D8%B1-%D9%85%D8%B9%D8%AF%D9%84-%D8%A7%D9%84%D8%AA%D8%B6%D8%AE%D9%85-%D9%81%D9%8A-%D8%A8%D8%B1%D9%8A%D8%B7%D8%A7%D9%86%D9%8A%D8%A7-%D8%B9%D9%86%D8%AF-8.7-%D8%B9%D9%84%D9%89-%D8%A3%D8%B3%D8%A7%D8%B3-%D8%B3%D9%86%D9%88%D9%8A-%D9%85%D8%AE%D8%A7%D9%84%D9%81%D8%A7%D9%8B-%D8%A7%D9%84%D8%AA%D9%88%D9%82%D8%B9%D8%A7%D8%AA",
+    "published-datetime": "الأربعاء، ٢١ يونيو / حزيران ٢٠٢٣"
+  },
+  {
+    "id": 37,
+    "type": "economy",
+    "image": "../pages/imagenews/",
+    "src-image": "https://pbs.twimg.com/profile_images/1544546776870518785/Jnq9AiiP_bigger.jpg",
+    "title":"  مساهمو بنك صحار يوافقون على الاندماج مع HSBC عُمان",
+    "description": "وافق مساهمو بنك صحار في اجتماعهم المنعقد يوم الثلاثاء 20 يونيو الحالي على مقترح الاندماج عن طريق الضم مع بنك HSBC عمان على أن يكون بنك صحار هو البنك المتبقي",
+    "source-name": "قناة CNBC عربية",
+    "source-url": "https://nabd.com/s/121265102-b37aaf/%D9%85%D8%B3%D8%A7%D9%87%D9%85%D9%88-%D8%A8%D9%86%D9%83-%D8%B5%D8%AD%D8%A7%D8%B1-%D9%8A%D9%88%D8%A7%D9%81%D9%82%D9%88%D9%86-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A7%D9%86%D8%AF%D9%85%D8%A7%D8%AC-%D9%85%D8%B9-hsbc-%D8%B9%D9%8F%D9%85%D8%A7%D9%86",
+    "published-datetime": "الأربعاء، ٢١ يونيو / حزيران ٢٠٢٣"
+  },
+  {
+    "id": 38,
+    "type": "economy",
+    "image": "../pages/imagenews/image38.jpg",
+    "src-image": "https://pbs.twimg.com/profile_images/1544546776870518785/Jnq9AiiP_bigger.jpg",
+    "title":"جهود البحث عن الغواص تيتان المفقودة تتواصل لليوم الرابع ",
+    "description": " دخلت عمليات البحث عن غواصة سياحية مفقودة في المحيط الأطلسي يومها الرابع اليوم الأربعاء 21 يونيو حزيران، إذ تسابق فرق الإنقاذ الزمن للعثور على الغواصة التي اختفت أثناء نقلها ركاباً أثرياء في رحلة إلى حطام سفينة التايتانيك بالمياه العميقة قبالة ساحل كندا               ",
+    "source-name": "قناة CNBC عربية",
+    "source-url": "https://nabd.com/s/121277462-caee77/%D8%AC%D9%87%D9%88%D8%AF-%D8%A7%D9%84%D8%A8%D8%AD%D8%AB-%D8%B9%D9%86-%D8%A7%D9%84%D8%BA%D9%88%D8%A7%D8%B5%D8%A9-%D8%AA%D9%8A%D8%AA%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D9%81%D9%82%D9%88%D8%AF%D8%A9-%D8%AA%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D9%84%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9",
+    "published-datetime": "الأربعاء، ٢١ يونيو / حزيران ٢٠٢٣"
+  },
+  {
+    "id": 39,
+    "type": "economy",
+    "image": "../pages/imagenews/hmage39.jpeg",
+    "src-image": "https://pbs.twimg.com/profile_images/1544546776870518785/Jnq9AiiP_bigger.jpg",
+    "title":"بتكوين ترتفع بنحو 5% لأعلى مستوى في يونيو الجاري ",
+    "description": "  قفزت عملة بتكوين خلال تعاملات جلسة الثلاثاء العشرين من يونيو حزيران لأعلى مستوى في الشهر الجاري، إذ تخطت مستويات 28 ألف دولار قبل أن تقلص مكاسبها دون تلك المستويات بعد ذلك   ",
+    "source-name": "قناة CNBC عربية",
+    "source-url": "  https://nabd.com/s/121268753-ce6d11/%D8%A8%D8%AA%D9%83%D9%88%D9%8A%D9%86-%D8%AA%D8%B1%D8%AA%D9%81%D8%B9-%D8%A8%D9%86%D8%AD%D9%88-5-%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%85%D8%B3%D8%AA%D9%88%D9%89-%D9%81%D9%8A-%D9%8A%D9%88%D9%86%D9%8A%D9%88-%D8%A7%D9%84%D8%AC%D8%A7%D8%B1%D9%8A",
+      "published-datetime": "الأربعاء، ٢١ يونيو / حزيران ٢٠٢٣"
+  },
+  {
+    "id": 40,
+    "type": "economy",
+    "image": "../pages/imagenews/image41.PNG",
+    "src-image": "https://pbs.twimg.com/profile_images/1650494337707327488/poH7M6HO_bigger.jpg",
+    "title":"      ما هي انواع التصلب اللويحي المتعدد؟ | الطبي ",
+    "description": "مع اختلاف أنواع التصلب اللويحي، يشترك جميع مصابي مرض التصلب اللويحي المتعدد (بالإنجليزية:  Multiple Sclerosis) بحدوث تآكل في الطبقة التي تغلف أعصاباً معينة بسبب هجوم جهاز المناعة عليها، مما يؤدي إلى حدوث تعارض في التواصل بين الدماغ وسائر الجسم.   ",
+    "source-name": "موقع الطبي",
+    "source-url": "    https://nabd.com/s/121288635-68e1b6/%D9%85%D8%A7-%D9%87%D9%8A-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D9%84%D8%AA%D8%B5%D9%84%D8%A8-%D8%A7%D9%84%D9%84%D9%88%D9%8A%D8%AD%D9%8A-%D8%A7%D9%84%D9%85%D8%AA%D8%B9%D8%AF%D8%AF%D8%9F-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A",
+    "published-datetime": "الأربعاء، ٢١ يونيو / حزيران ٢٠٢٣"
+  },
+  {
+    "id": 41,
+    "type": "helth",
+    "image": "../pages/imagenews/image40.jpg",
+    "src-image": "https://pbs.twimg.com/profile_images/1544546776870518785/Jnq9AiiP_bigger.jpg",
+    "title":"   ما هي أسباب آلام المفاصل عند النساء، وطرق الوقاية    ",
+    "description": " تقدمت قطر إلى المرتبة 12 عالمياً في مؤشر التنافسية العالمي للعام 2023، وذلك من بين 64 دولة شملها التقرير الصادر عن المعهد الدولي للتنمية الإدارية (IMD) في سويسرا  ",
+    "source-name": "قناة CNBC عربية",
+    "source-url": "  https://nabd.com/s/121235323-c5d80b/%D9%82%D8%B7%D8%B1-%D8%AA%D8%AA%D9%82%D8%AF%D9%85-%D9%84%D9%84%D9%85%D8%B1%D8%AA%D8%A8%D8%A9-12-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%8B-%D9%81%D9%8A-%D9%85%D8%A4%D8%B4%D8%B1-%D8%A7%D9%84%D8%AA%D9%86%D8%A7%D9%81%D8%B3%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A-%D9%84%D8%B9%D8%A7%D9%85-2023",
+    "published-datetime": "الأربعاء، ٢١ يونيو / حزيران ٢٠٢٣"
+  },
+  {
+    "id": 42,
+    "type": "helth",
+    "image": "../pages/imagenews/image42.jpg",
+    "src-image": "https://pbs.twimg.com/profile_images/1651250092953817090/NhvSeCXK_bigger.jpg",
+    "title":"    9 أطعمة تحميك من انسداد الشرايين  ",
+    "description": "            يمكن أن تسبب أمراض معينة وعوامل خارجية أخرى تصلب الشرايين، وعلى رأسها الأطعمة التي نتناولها، فهي أحد العوامل التي لها تأثير كبير على صحة الشرايين    ",
+    "source-name": "الكونسلتو",
+    "source-url": "  https://nabd.com/s/121273976-47e956/9-%D8%A3%D8%B7%D8%B9%D9%85%D8%A9-%D8%AA%D8%AD%D9%85%D9%8A%D9%83-%D9%85%D9%86-%D8%A7%D9%86%D8%B3%D8%AF%D8%A7%D8%AF-%D8%A7%D9%84%D8%B4%D8%B1%D8%A7%D9%8A%D9%8A%D9%86",
+    "published-datetime": "الأربعاء، ٢١ يونيو / حزيران ٢٠٢٣"
+  },
+  {
+    "id": 43,
+    "type": "helth",
+    "image": "../pages/imagenews/image43.png",
+    "src-image": "https://pbs.twimg.com/profile_images/1650494337707327488/poH7M6HO_bigger.jpg",
+    "title":"تعرف الى اهم 9 اكلات تقوي الذاكرة والتركيز | الطبي  ",
+    "description": " هناك عدة اكلات تقوي الذاكرة بسبب احتوائها على عناصر غذائية عديدة، وفيتامينات مثل فيتامينات ب، ومضادات الأكسدة، وغيرها من العناصر الغذائية المفيدة، لذلك ينصح بتناولها لتقليل فرص الإصابة بالخرف ومشكلات الذاكرة عند التقدم في العمر. نذكر أهم تلك الأكلات في هذا المقال.    ",
+    "source-name": "موقع الطبي",
+    "source-url": " https://nabd.com/s/121288601-bb35b4/%D8%AA%D8%B9%D8%B1%D9%81-%D8%A7%D9%84%D9%89-%D8%A7%D9%87%D9%85-9-%D8%A7%D9%83%D9%84%D8%A7%D8%AA-%D8%AA%D9%82%D9%88%D9%8A-%D8%A7%D9%84%D8%B0%D8%A7%D9%83%D8%B1%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%B2-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A",
+    "published-datetime": "الأربعاء، ٢١ يونيو / حزيران ٢٠٢٣"
+  }, 
+  {
+    "id": 44,
+    "type": "helth",
+    "image": "../pages/imagenews/image44.jpg",
+    "src-image": "https://pbs.twimg.com/profile_images/1620169706425704451/GTLXDB1u_bigger.png",
+    "title":"عملية #الليزك للعيون بديلاً عن استخدام النظارات أو العدسات اللاصقة لتصحيح بعض مشاكل الرؤية الشائعة، فما فوائدها ونتائجها؟ وما مخاطرها؟   ",
+    "description": "    يمكن أن تكون عملية الليزك للعيون بديلاً عن استخدام النظارات أو العدسات اللاصقة لتصحيح بعض مشاكل الرؤية الشائعة. والليزك (تصحيح تحدب القرنية في موضعها بمساعدة الليزر) وهو نوع من أنواع جراحة الليزر الانكسارية، وهو الأكثر شهرة والأكثر شيوعاً   ",
+    "source-name": "كل يوم معلومة طبية",
+,    "source-url": " https://nabd.com/s/121246928-8d5314/%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D9%84%D9%84%D8%B9%D9%8A%D9%88%D9%86-%D8%A8%D8%AF%D9%8A%D9%84%D8%A7%D9%8B-%D8%B9%D9%86-%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A3%D9%88-%D8%A7%D9%84%D8%B9%D8%AF%D8%B3%D8%A7%D8%AA-%D8%A7%D9%84%D9%84%D8%A7%D8%B5%D9%82%D8%A9-%D9%84%D8%AA%D8%B5%D8%AD%D9%8A%D8%AD-%D8%A8%D8%B9%D8%B6-%D9%85%D8%B4%D8%A7%D9%83%D9%84-%D8%A7%D9%84%D8%B1%D8%A4%D9%8A%D8%A9-%D8%A7%D9%84%D8%B4%D8%A7%D8%A6%D8%B9%D8%A9%D8%8C-%D9%81%D9%85%D8%A7-%D9%81%D9%88%D8%A7%D8%A6%D8%AF%D9%87%D8%A7-%D9%88%D9%86%D8%AA%D8%A7%D8%A6%D8%AC%D9%87%D8%A7%D8%9F-%D9%88%D9%85%D8%A7-%D9%85%D8%AE%D8%A7%D8%B7%D8%B1%D9%87%D8%A7%D8%9F",
+    "published-datetime": "الأربعاء، ٢١ يونيو / حزيران ٢٠٢٣"
+  },
+  {
+    "id": 45,
+    "type": "helth",
+    "image": "../pages/imagenews/image45.jpg",
+    "src-image": "https://pbs.twimg.com/profile_images/1620169706425704451/GTLXDB1u_bigger.png",
+    "title":" قطر تتقدم للمرتبة 12 عالمياً في مؤشر التنافسية العالمي لعام 2023    ",
+    "description": "           ارتفاع هيموجلوبين الدم هو وجود مستوى غير طبيعي من الهيموجلوبين، وتحدث هذه الحالة نتيجة لأسباب عديدة من أهمها #التدخين! تعرف أكثر على أسباب ارتفاع هيموجلوبين الدم من هنا ",
+    "source-name": "كل يوم معلومة طبية",
+    "source-url": "  https://nabd.com/s/121221938-58d3c8/%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D9%87%D9%8A%D9%85%D9%88%D8%AC%D9%84%D9%88%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D8%AF%D9%85-%D9%87%D9%88-%D9%88%D8%AC%D9%88%D8%AF-%D9%85%D8%B3%D8%AA%D9%88%D9%89-%D8%BA%D9%8A%D8%B1-%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A-%D9%85%D9%86-%D8%A7%D9%84%D9%87%D9%8A%D9%85%D9%88%D8%AC%D9%84%D9%88%D8%A8%D9%8A%D9%86%D8%8C-%D9%88%D8%AA%D8%AD%D8%AF%D8%AB-%D9%87%D8%B0%D9%87-%D8%A7%D9%84%D8%AD%D8%A7%D9%84%D8%A9-%D9%86%D8%AA%D9%8A%D8%AC%D8%A9-%D9%84%D8%A3%D8%B3%D8%A8%D8%A7%D8%A8-%D8%B9%D8%AF%D9%8A%D8%AF%D8%A9-%D9%85%D9%86-%D8%A3%D9%87%D9%85%D9%87%D8%A7-%D8%AA%D8%B9%D8%B1%D9%81-%D8%A3%D9%83%D8%AB%D8%B1-%D8%B9%D9%84%D9%89-%D8%A3%D8%B3%D8%A8%D8%A7%D8%A8-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D9%87%D9%8A%D9%85%D9%88%D8%AC%D9%84%D9%88%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D8%AF%D9%85-%D9%85%D9%86-%D9%87%D9%86%D8%A7",
+    "published-datetime": "الأربعاء، ٢١ يونيو / حزيران ٢٠٢٣"
+  },
+   
+  {
+    "id": 46,
+    "type": "helth",
+    "image": "../pages/imagenews/image46.jpg",
+    "src-image": "https://pbs.twimg.com/profile_images/1620169706425704451/GTLXDB1u_bigger.png",
+    "title":"  يمتلك الليمون عدد كبير من العناصر الغذائية، وهو ما يجعله مثالي في كثير من الاستخدامات والأغراض، بما في ذلك التخلص من رائحة #العرق! تعرف أكثر على فوائد الليمون لإزالة رائحة العرق من هنا   ",
+    "description": " تعرف معنا على فوائد الليمون لإزالة رائحة العرق والتي نعرضها لك بالتفصيل بالإضافة إلى معرفة كيفية الحفاظ على نظافة الجلد دون مواد ضارة قد تؤذي بشرتك، كما أننا سنتعرف سوياً على فوائد الليمون المختلفة للبشرة والجسم ورأي العلم في هذا النوع من مزيلات العرق الطبيعية ",
+    "source-name": "كل يوم معلومة طبية,",
+        "source-url": "https://nabd.com/s/121249666-3c92c5/%D9%8A%D9%85%D8%AA%D9%84%D9%83-%D8%A7%D9%84%D9%84%D9%8A%D9%85%D9%88%D9%86-%D8%B9%D8%AF%D8%AF-%D9%83%D8%A8%D9%8A%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D9%86%D8%A7%D8%B5%D8%B1-%D8%A7%D9%84%D8%BA%D8%B0%D8%A7%D8%A6%D9%8A%D8%A9%D8%8C-%D9%88%D9%87%D9%88-%D9%85%D8%A7-%D9%8A%D8%AC%D8%B9%D9%84%D9%87-%D9%85%D8%AB%D8%A7%D9%84%D9%8A-%D9%81%D9%8A-%D9%83%D8%AB%D9%8A%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6%D8%8C-%D8%A8%D9%85%D8%A7-%D9%81%D9%8A-%D8%B0%D9%84%D9%83-%D8%A7%D9%84%D8%AA%D8%AE%D9%84%D8%B5-%D9%85%D9%86-%D8%B1%D8%A7%D8%A6%D8%AD%D8%A9-%D8%AA%D8%B9%D8%B1%D9%81-%D8%A3%D9%83%D8%AB%D8%B1-%D8%B9%D9%84%D9%89-%D9%81%D9%88%D8%A7%D8%A6%D8%AF-%D8%A7%D9%84%D9%84%D9%8A%D9%85%D9%88%D9%86-%D9%84%D8%A5%D8%B2%D8%A7%D9%84%D8%A9-%D8%B1%D8%A7%D8%A6%D8%AD%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D9%82-%D9%85%D9%86-%D9%87%D9%86%D8%A7",
+    "published-datetime": "الأربعاء، ٢١ يونيو / حزيران ٢٠٢٣"
+  },
+  {
+    "id": 47,
+    "type": "helth",
+    "image": "../pages/imagenews/image47.jpg",
+    "src-image": "https://pbs.twimg.com/profile_images/1620169706425704451/GTLXDB1u_bigger.png",
+    "title":" قطر تتقدم للمرتبة 12 عالمياً في مؤشر التنافسية العالمي لعام 2023    ",
+    "description": "   يعد القرنفل أحد الأعشاب المفيدة لعلاج الأمراض الخاصة بالجهاز التنفسي والصدر، مما يدفع البعض للتساؤل هل يمكن علاج الربو بالقرنفل؟ وكيف يمكن استخدامه؟ وما هي فوائده لعلاج الربو؟ وفي المقال التالي سنتكلم على كل ما تريد معرفته عن فوائد القرنفل في علاج الربو  ",
+    "source-name": "كل يوم معلومة طبية,",
+    "source-url": "  https://nabd.com/s/121235323-c5d80b/%D9%82%D8%B7%D8%B1-%D8%AA%D8%AA%D9%82%D8%AF%D9%85-%D9%84%D9%84%D9%85%D8%B1%D8%AA%D8%A8%D8%A9-12-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%8B-%D9%81%D9%8A-%D9%85%D8%A4%D8%B4%D8%B1-%D8%A7%D9%84%D8%AA%D9%86%D8%A7%D9%81%D8%B3%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A-%D9%84%D8%B9%D8%A7%D9%85-2023",
+    "published-datetime": "الأربعاء، ٢١ يونيو / حزيران ٢٠٢٣"
+  },
+  {
+    "id": 48,
+    "type": "helth",
+    "image": "../pages/imagenews/image40.jp",
+    "src-image": "https://pbs.twimg.com/profile_images/1544546776870518785/Jnq9AiiP_bigger.jpg",
+    "title":"           يشتهر #القرنفل بفوائده العلاجية المتعددة، لاحتوائه على خصائص ومركبات مفيدة لصحة الجسم ولعلاج بعض المشكلات! فهل يمكن علاج #الربو بالقرنفل؟ اكتشف من هنا",
+    "description": " تقدمت قطر إلى المرتبة 12 عالمياً في مؤشر التنافسية العالمي للعام 2023، وذلك من بين 64 دولة شملها التقرير الصادر عن المعهد الدولي للتنمية الإدارية (IMD) في سويسرا  ",
+    "source-name": "كل يوم معلومة طبية,",
+    "source-url": "  https://nabd.com/s/121235323-c5d80b/%D9%82%D8%B7%D8%B1-%D8%AA%D8%AA%D9%82%D8%AF%D9%85-%D9%84%D9%84%D9%85%D8%B1%D8%AA%D8%A8%D8%A9-12-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%8B-%D9%81%D9%8A-%D9%85%D8%A4%D8%B4%D8%B1-%D8%A7%D9%84%D8%AA%D9%86%D8%A7%D9%81%D8%B3%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A-%D9%84%D8%B9%D8%A7%D9%85-2023",
+    "published-datetime": "الأربعاء، ٢١ يونيو / حزيران ٢٠٢٣"
+  },
+  {
+    "id": 49,
+    "type": "helth",
+    "image": "../pages/imagenews/image49.jpg",
+    "src-image": "https://pbs.twimg.com/profile_images/1544546776870518785/Jnq9AiiP_bigger.jpg",
+    "title":"     ظهور لون الجلد في اليدين بالأزرق أو الأحمر، أحد الأعراض التي يجب أن تنتبه لها جيداً لأنها يمكن أن تشير إلى الإصابة ب #جلطة_اليد! تعرف أكثر على أعراضها وأسبابها وكيفية علاجها من هنا  ",
+    "description": "      جلطة اليد أو بمعنى أدق الجلطات الدموية التي تتكون في الذراع أو أصابع اليد Arm & Fingers clots، هي عبارة عن تخثر يحدث لمكونات الدم، وفي العادة يكون الهدف وقف النزيف، لكن أحيانا للأسف تتكون الجلطة بدون سبب، وتصبح ضارة للجسم  ",
+    "source-name": "كل يوم معلومة طبية,",
+    "source-url": " https://nabd.com/s/121222490-6d14e9/%D8%B8%D9%87%D9%88%D8%B1-%D9%84%D9%88%D9%86-%D8%A7%D9%84%D8%AC%D9%84%D8%AF-%D9%81%D9%8A-%D8%A7%D9%84%D9%8A%D8%AF%D9%8A%D9%86-%D8%A8%D8%A7%D9%84%D8%A3%D8%B2%D8%B1%D9%82-%D8%A3%D9%88-%D8%A7%D9%84%D8%A3%D8%AD%D9%85%D8%B1%D8%8C-%D8%A3%D8%AD%D8%AF-%D8%A7%D9%84%D8%A3%D8%B9%D8%B1%D8%A7%D8%B6-%D8%A7%D9%84%D8%AA%D9%8A-%D9%8A%D8%AC%D8%A8-%D8%A3%D9%86-%D8%AA%D9%86%D8%AA%D8%A8%D9%87-%D9%84%D9%87%D8%A7-%D8%AC%D9%8A%D8%AF%D8%A7%D9%8B-%D9%84%D8%A3%D9%86%D9%87%D8%A7-%D9%8A%D9%85%D9%83%D9%86-%D8%A3%D9%86-%D8%AA%D8%B4%D9%8A%D8%B1-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%A8-%D8%AA%D8%B9%D8%B1%D9%81-%D8%A3%D9%83%D8%AB%D8%B1-%D8%B9%D9%84%D9%89-%D8%A3%D8%B9%D8%B1%D8%A7%D8%B6%D9%87%D8%A7-%D9%88%D8%A3%D8%B3%D8%A8%D8%A7%D8%A8%D9%87%D8%A7-%D9%88%D9%83%D9%8A%D9%81%D9%8A%D8%A9-%D8%B9%D9%84%D8%A7%D8%AC%D9%87%D8%A7-%D9%85%D9%86-%D9%87%D9%86%D8%A7",
+    "published-datetime": "الأربعاء، ٢١ يونيو / حزيران ٢٠٢٣"
+  },
+  {
+    "id": 50,
+    "type": "helth",
+    "image": "../pages/imagenews/image50.jpg",
+    "src-image": "https://pbs.twimg.com/profile_images/1544546776870518785/Jnq9AiiP_bigger.jpg",
+    "title":"   بلسم طبيعي للشعر الجاف وعلاج لتساقط الشعر وتغذيته، كل هذا وأكثر يمكن الحصول عليه من ثمرة الأفوكادو، اكتشفي فوائد #الأفوكادو لشعرك وتعرفي على كيفية استخدامه",
+    "description": "  الأفوكادو هي ثمرة تتميز بالعديد من الفوائد الصحية، وأحد الفوائد التي يقدمها الأفوكادو هي العناية بصحة وجمال الشعر، فالأفوكادو يمنع تساقط الشعر ويعزيز نمو الشعر، لذلك تابع المقال التالي لمعرفة المزيد من فوائد الأفوكادو للشعر بالتفصيل  ",
+    "source-name": "كل يوم معلومة طبية,",
+    "source-url": " https://nabd.com/s/121215093-c72a9e/%D8%A8%D9%84%D8%B3%D9%85-%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A-%D9%84%D9%84%D8%B4%D8%B9%D8%B1-%D8%A7%D9%84%D8%AC%D8%A7%D9%81-%D9%88%D8%B9%D9%84%D8%A7%D8%AC-%D9%84%D8%AA%D8%B3%D8%A7%D9%82%D8%B7-%D8%A7%D9%84%D8%B4%D8%B9%D8%B1-%D9%88%D8%AA%D8%BA%D8%B0%D9%8A%D8%AA%D9%87%D8%8C-%D9%83%D9%84-%D9%87%D8%B0%D8%A7-%D9%88%D8%A3%D9%83%D8%AB%D8%B1-%D9%8A%D9%85%D9%83%D9%86-%D8%A7%D9%84%D8%AD%D8%B5%D9%88%D9%84-%D8%B9%D9%84%D9%8A%D9%87-%D9%85%D9%86-%D8%AB%D9%85%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D9%81%D9%88%D9%83%D8%A7%D8%AF%D9%88%D8%8C-%D8%A7%D9%83%D8%AA%D8%B4%D9%81%D9%8A-%D9%81%D9%88%D8%A7%D8%A6%D8%AF-%D9%84%D8%B4%D8%B9%D8%B1%D9%83-%D9%88%D8%AA%D8%B9%D8%B1%D9%81%D9%8A-%D8%B9%D9%84%D9%89-%D9%83%D9%8A%D9%81%D9%8A%D8%A9-%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85%D9%87",
+    "published-datetime": "الأربعاء، ٢١ يونيو / حزيران ٢٠٢٣"
+  }
+
+
+
+
+
+   
+   
+]
