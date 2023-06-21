@@ -1,0 +1,40 @@
+/* first navbar */
+.navbar {
+  background-color: #27374d;
+}
+
+.nav-searchBar {
+  width: 30%;
+  margin-left: 5%;
+}
+
+@media only screen and (max-width: 991px) {
+  .nav-searchBar {
+    width: 80%;
+  }
+  .navFlex {
+    padding-right: 5%;
+  }
+}
+
+.nav-searchBarPlaceholder {
+  background-color: #525d6c !important;
+}
+
+/* second navbar */
+
+.Heading-secondNav {
+  background-color: #525d6c;
+}
+.Heading-secondNavLink {
+  color: #fff !important;
+}
+
+.Heading-secondNav {
+  margin-top: -8px;
+  margin-bottom: 0;
+}
+
+.custom-placeholder ::placeholder {
+  color: #fff !important;
+}
