@@ -1,83 +1,100 @@
 import React from "react";
-import Container from "react-bootstrap/Container";
-import Form from "react-bootstrap/Form";
-import Nav from "react-bootstrap/Nav";
-import Navbar from "react-bootstrap/Navbar";
-import "../assets/index.css";
-
+import { Navbar, Container, Row, Col, Nav } from "react-bootstrap";
+import { Form, FormControl, Button } from "react-bootstrap";
 
 const Header = () => {
+  const currentDate = new Date().toLocaleDateString("ar-AR", {
+    weekday: "long",
+    year: "numeric",
+    month: "long",
+    day: "numeric",
+    numberingSystem: "arab",
+  });
   return (
-    <div>
-      {/* First navbar begining */}
-      <Navbar expand="lg" >
-        <Container fluid className="navbar"  style={{  paddingRight:"5%", paddingLeft:"5%" }}>
-          <div>
-            <Navbar.Brand
-              href="#"
-              style={{ color: "#fff", marginRight: "5%", marginLeft: "5px" }}
-            >
-              المحطة
-            </Navbar.Brand>
-            <Navbar.Brand href="#" style={{ color: "red", marginLeft: "2%" }}>
-              الإخبارية
-            </Navbar.Brand>
+    <div className="">
+      <Row className="head p-3 px-4 ">
+        <Col>
+          <div className="d-flex align-items-center justify-content-between">
+            <div className="d-flex gap-4">
+              <h4>
+                المحطة <span style={{ color: "#EF4747" }}>الإخبارية</span>
+              </h4>
+              <button className="header-sign">تسجيل دخول</button>
+              <button className="header-sign">إنشاء حساب</button>
+            </div>
+            <div className="d-flex align-items-center gap-4">
+              <Form className="header-search-form">
+                <FormControl
+                  type="text"
+                  placeholder="ابحث هنا..."
+                  className="text-light search-field"
+                  style={{
+                    borderRadius: "0",
+                    border: "none",
+                    backgroundColor: "#525D6C",
+                  }}
+                />
+              </Form>
+              <span>{currentDate}</span>
+            </div>
           </div>
+        </Col>
+      </Row>
 
-          <Navbar.Toggle aria-controls="navbarScroll" />
-          <Navbar.Collapse id="navbarScroll" className="navFlex">
-            <Nav
-              className="me-auto my-2 my-lg-0"
-              style={{ maxHeight: "100px", marginRight:"2%" }}
-              navbarScroll
-            >
-              <Nav.Link href="#action1" style={{ color: "#fff" }}>
-                تسجيل دخول
-              </Nav.Link>
-              <Nav.Link href="#action2" style={{ color: "#fff" }}>
-                إنشاء حساب
-              </Nav.Link>
-            </Nav>
-            <Form className="d-flex nav-searchBar ">
-              <Form.Control
-                type="search"
-                placeholder= " ابحث هنا"
-                className="me-2 nav-searchBarPlaceholder border-0 rounded-0 "
-                aria-label="Search"
-                style={{ '::placeholder': { color: '#fff' } }}
-              />
-            </Form>
-            <Navbar.Brand href="#" style={{ color: "#fff" }}>
-              الأحد، 18 يونيو/ حزيران 2023
-            </Navbar.Brand>
-          </Navbar.Collapse>
-        </Container>
-      </Navbar>
-      {/* First Navbar ending */}
-
-      {/* Second Navbar begining */}
-      <Navbar expand="lg" className="Heading-secondNav">
-        <Container fluid style={{ paddingRight:"5%", paddingLeft:"5%" }}>
-          <Navbar.Brand href="#home" style={{ color: "red" }}>
-            الرئيسية
-          </Navbar.Brand>
+      {/* Second section */}
+      <Row>
+        <Navbar className="head-nav px-5" expand="lg">
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
+
           <Navbar.Collapse id="basic-navbar-nav">
-            <Nav className="me-auto Heading-secondNavLink">
-              <Nav.Link style={{ color: "#fff" }}>|</Nav.Link>
-              <Nav.Link style={{ color: "#fff" }}>عاجل</Nav.Link>
-              <Nav.Link style={{ color: "#fff" }}>العالم</Nav.Link>
-              <Nav.Link style={{ color: "#fff" }}>رياضة</Nav.Link>
-              <Nav.Link style={{ color: "#fff" }}>اقتصاد</Nav.Link>
-              <Nav.Link style={{ color: "#fff" }}>صحة</Nav.Link>
-              <Nav.Link style={{ color: "#fff" }}>منوعات</Nav.Link>
-              <Nav.Link style={{ color: "#fff" }}>البث المباشر</Nav.Link>
+            <Nav className="ml-auto gap-4">
+              <Form className="nav-search-form px-2 text-light">
+                <FormControl
+                  type="text"
+                  placeholder="  ابحث هنا ..."
+                  className="search-field"
+                  style={{
+                    borderRadius: "0",
+                    border: "none",
+                    backgroundColor: "##fff",
+                    color: "white",
+                  }}
+                />
+              </Form>
+              <Nav.Link href="#section1" className=" text-light px-2 main-news">
+                <span style={{ color: "#EF4747" }}>الرئيسية </span>
+              </Nav.Link>
+              <Nav.Link href="#section1" className="text-light px-2">
+                عاجل
+              </Nav.Link>
+              <Nav.Link href="#section2" className="text-light px-2">
+                العالم
+              </Nav.Link>
+              <Nav.Link href="#section3" className="text-light px-2">
+                رياضة
+              </Nav.Link>
+              <Nav.Link href="#section3" className="text-light px-2">
+                اقتصاد
+              </Nav.Link>
+              <Nav.Link href="#section3" className="text-light px-2">
+                صحة
+              </Nav.Link>
+              <Nav.Link href="#section3" className="text-light px-2">
+                منوعات
+              </Nav.Link>
+              <Nav.Link href="#section3" className="text-light px-2">
+                البث المباشر
+              </Nav.Link>
+              <Nav.Link href="#section3" className="text-light px-2 ">
+                <button className="nav-sign">تسجيل دخول</button>
+              </Nav.Link>
+              <Nav.Link href="#section3" className="text-light px-2 ">
+                <button className="nav-sign">إنشاء حساب</button>
+              </Nav.Link>
             </Nav>
           </Navbar.Collapse>
-        </Container>
-      </Navbar>
-
-      {/* Second Navbar ending */}
+        </Navbar>
+      </Row>
     </div>
   );
 };
