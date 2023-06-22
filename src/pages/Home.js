@@ -5,20 +5,32 @@ import AddsBanner from "../component/AddsBanner";
 import Header from "../component/Header";
 import { Row, Col, Container } from "react-bootstrap";
 import Aside from "../component/Aside";
+import NewCard from "../component/NewCard";
+import { AllNews } from "../newsData";
+
+// Add more objects
 
 const Home = () => {
   return (
-    <div>
+    <div className="">
+      <div className="">
+        <Hero />
+      </div>
       <Container>
-        <Row>
-          <Hero />
-        </Row>
         <Row>
           <Col lg={3}>
             <Aside />
           </Col>
           <Col lg={9}>
-            <Story />
+            <Row>
+              <Story />
+            </Row>
+            {/*landing page news*/}
+            <Row className="d-flex justify-content-center gap-3 my-4">
+              {AllNews.map((newsItem) => {
+                return <NewCard title={newsItem.title} key={newsItem.id} />;
+              })}
+            </Row>
           </Col>
         </Row>
       </Container>

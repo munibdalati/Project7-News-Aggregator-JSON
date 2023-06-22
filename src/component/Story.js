@@ -13,6 +13,10 @@ const stories = [
   { id: 7, name: "خبرني", image: "images/alanbaa.png" },
   { id: 8, name: "خبرني", image: "images/alanbaa.png" },
   { id: 9, name: "خبرني", image: "images/alanbaa.png" },
+  { id: 10, name: "خبرني", image: "images/alanbaa.png" },
+  { id: 11, name: "خبرني", image: "images/alanbaa.png" },
+  { id: 12, name: "خبرني", image: "images/alanbaa.png" },
+  { id: 13, name: "خبرني", image: "images/alanbaa.png" },
 ];
 
 function Story() {
