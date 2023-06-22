@@ -1,6 +1,9 @@
 import React from "react";
 import { Navbar, Container, Row, Col, Nav } from "react-bootstrap";
 import { Form, FormControl, Button } from "react-bootstrap";
+import { Link } from "react-router-dom";
+import SignIn from "../pages/SignIn";
+import SignUp from "../pages/SignUp";
 
 const Header = () => {
   const currentDate = new Date().toLocaleDateString("ar-AR", {
@@ -17,10 +20,16 @@ const Header = () => {
           <div className="d-flex align-items-center justify-content-between">
             <div className="d-flex gap-4">
               <h4>
-                المحطة <span style={{ color: "#EF4747" }}>الإخبارية</span>
+                <Link to="/">
+                  المحطة <span style={{ color: "#EF4747" }}>الإخبارية</span>
+                </Link>
               </h4>
-              <button className="header-sign">تسجيل دخول</button>
-              <button className="header-sign">إنشاء حساب</button>
+              <button className="header-sign">
+                <Link to="/SignIn">تسجيل دخول </Link>
+              </button>
+              <button className="header-sign">
+                <Link to="/SignUp">إنشاء حساب </Link>
+              </button>
             </div>
             <div className="d-flex align-items-center gap-4">
               <Form className="header-search-form">
@@ -62,34 +71,43 @@ const Header = () => {
                 />
               </Form>
               <Nav.Link href="#section1" className=" text-light px-2 main-news">
-                <span style={{ color: "#EF4747" }}>الرئيسية </span>
+                <Link to="/">
+                  {" "}
+                  <span style={{ color: "#EF4747" }}>الرئيسية </span>
+                </Link>
               </Nav.Link>
-              <Nav.Link href="#section1" className="text-light px-2">
-                عاجل
+              <Nav.Link href="" className="text-light px-2">
+                <Link to="/breaking"> عاجل</Link>
               </Nav.Link>
               <Nav.Link href="#section2" className="text-light px-2">
-                العالم
+                <Link to="/world">العالم</Link>
               </Nav.Link>
               <Nav.Link href="#section3" className="text-light px-2">
-                رياضة
+                <Link to="/sport">رياضة</Link>
               </Nav.Link>
               <Nav.Link href="#section3" className="text-light px-2">
-                اقتصاد
+                <Link to="/economy">إقتصاد</Link>
               </Nav.Link>
               <Nav.Link href="#section3" className="text-light px-2">
-                صحة
+                <Link to="/health">صحة</Link>
               </Nav.Link>
               <Nav.Link href="#section3" className="text-light px-2">
-                منوعات
+                <Link to="/">منوعات</Link>{" "}
               </Nav.Link>
               <Nav.Link href="#section3" className="text-light px-2">
-                البث المباشر
+                <Link to="/">البث المباشر</Link>
               </Nav.Link>
               <Nav.Link href="#section3" className="text-light px-2 ">
-                <button className="nav-sign">تسجيل دخول</button>
+                <button className="nav-sign">
+                  {" "}
+                  <Link to="/SignIn">تسجيل دخول </Link>
+                </button>
               </Nav.Link>
               <Nav.Link href="#section3" className="text-light px-2 ">
-                <button className="nav-sign">إنشاء حساب</button>
+                <button className="nav-sign">
+                  {" "}
+                  <Link to="/SignUp"> إنشاء حساب </Link>
+                </button>
               </Nav.Link>
             </Nav>
           </Navbar.Collapse>

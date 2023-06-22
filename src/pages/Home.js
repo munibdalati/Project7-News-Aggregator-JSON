@@ -28,7 +28,7 @@ const Home = () => {
             {/*landing page news*/}
             <Row className="d-flex justify-content-center gap-3 my-4">
               {AllNews.map((newsItem) => {
-                return <NewCard title={newsItem.title} key={newsItem.id} />;
+                return <NewCard data={newsItem} />;
               })}
             </Row>
           </Col>
