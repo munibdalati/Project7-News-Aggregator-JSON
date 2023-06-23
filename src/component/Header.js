@@ -15,7 +15,7 @@ const Header = () => {
     numberingSystem: "arab",
   });
   return (
-    <div className="">
+    <Container fluid>
       <Row className="head p-3 px-4 ">
         <Col>
           <div className="d-flex align-items-center justify-content-between">
@@ -185,7 +185,7 @@ const Header = () => {
           </Navbar.Collapse>
         </Navbar>
       </Row>
-    </div>
+    </Container>
   );
 };
 

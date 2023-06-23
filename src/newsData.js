@@ -245,7 +245,7 @@ export const AllNews = [
     "source-url":
       "https://nabd.com/source/295-2fa990/%D9%82%D9%86%D8%A7%D8%A9+%D8%B1%D9%88%D8%B3%D9%8A%D8%A7+%D8%A7%D9%84%D9%8A%D9%88%D9%85",
     "published-datetime": "الإثنين، ١٩ يونيو / حزيران ٢٠٢٣",
-    publisher: "وكالة عمون الاخبارية",
+    publisher: "وكالة عمون ",
     commentNumber: "421",
   },
 
@@ -314,7 +314,7 @@ export const AllNews = [
     "source-url":
       "https://nabd.com/s/121171736-f937d1/%D9%82%D9%88%D8%A7%D8%AA-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D8%AA%D9%81%D9%82%D8%AF-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-%D9%86%D8%B5%D9%81-%D8%B9%D9%86%D8%A7%D8%B5%D8%B1%D9%87%D8%A7-%D8%B9%D9%84%D9%89-%D8%A7%D8%AA%D8%AC%D8%A7%D9%87-%D9%8A%D9%88%D8%AC%D9%86%D9%88%D8%AF%D9%88%D9%86%D9%8A%D8%AA%D8%B3%D9%83",
     "published-datetime": "الإثنين، ١٩ يونيو / حزيران ٢٠٢٣ ",
-    publisher: "وكالة عمون الاخبارية",
+    publisher: "وكالة عمون ",
     commentNumber: "745",
   },
 
@@ -349,7 +349,7 @@ export const AllNews = [
     "source-url":
       "https://nabd.com/s/121173795-332b77/%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D9%81%D9%8A%D9%85%D8%A9-%D8%B5%D9%84%D8%A7%D8%AD-40-%D8%A8%D8%A7%D9%84%D9%85%D8%A6%D8%A9-%D8%AE%D9%84%D8%A7%D9%84-%D8%B9%D8%A7%D9%85..-%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D8%A7%D9%84%D9%87%D8%A8%D9%88%D8%B7-%D8%A7%D9%84%D8%AD%D8%B1-%D8%9F",
     "published-datetime": "الإثنين، ١٩ يونيو / حزيران ٢٠٢٣ ",
-    publisher: "وكالة عمون الاخبارية",
+    publisher: "وكالة عمون ",
     commentNumber: "254",
   },
 
@@ -366,7 +366,7 @@ export const AllNews = [
     "source-url":
       "https://nabd.com/s/121159793-c7aba5/%D9%86%D8%A7%D8%AF%D9%8D-%D8%B3%D8%B9%D9%88%D8%AF%D9%8A-%D9%8A%D8%BA%D8%B1%D9%8A-%D8%AA%D9%8A%D8%B1-%D8%B4%D8%AA%D9%8A%D8%AC%D9%86-%D8%A8%D8%B9%D8%B1%D8%B6-%D8%AE%D8%B1%D8%A7%D9%81%D9%8A",
     "published-datetime": "الإثنين، ١٩ يونيو / حزيران ٢٠٢٣ ",
-    publisher: "وكالة عمون الإخبارية ",
+    publisher: "وكالة عمون  ",
     commentNumber: "124",
   },
 
@@ -383,7 +383,7 @@ export const AllNews = [
     "source-url":
       "https://nabd.com/s/121172200-9888b1/%D9%85%D9%81%D8%A7%D8%AC%D8%A3%D8%A9-%D8%A7%D9%84%D9%86%D8%B5%D8%B1..-%D9%86%D8%AC%D9%85-%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D8%B3%D9%8A%D9%83%D9%88%D9%86-%D8%AC%D9%88%D8%A7%D8%B1-%D8%B1%D9%88%D9%86%D8%A7%D9%84%D8%AF%D9%88",
     "published-datetime": "الإثنين، ١٩ يونيو / حزيران ٢٠٢٣ ",
-    publisher: "وكالة عمون الإخبارية ",
+    publisher: "وكالة عمون  ",
     commentNumber: "214",
   },
 
@@ -504,7 +504,7 @@ export const AllNews = [
     "source-url":
       " https://nabd.com/source/48-c8ba0f/%D9%82%D9%86%D8%A7%D8%A9+CNBC+%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9",
     "published-datetime": "الثلاثاء، ٢٠ يونيو / حزيران ٢٠٢٣",
-    publisher: "وكالة عمون الإخبارية ",
+    publisher: "وكالة عمون  ",
     commentNumber: "54",
   },
 
@@ -556,7 +556,7 @@ export const AllNews = [
     "source-url":
       "https://nabd.com/s/121285240-3b5337/%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D8%A7%D9%84%D8%AA%D9%88%D9%84%D9%8A%D8%AF%D9%8A-%D8%B3%D9%8A%D8%B6%D9%8A%D9%81-4.4-%D8%AA%D8%B1%D9%8A%D9%84%D9%8A%D9%88%D9%86-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%84%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A",
     "published-datetime": "الأربعاء، ٢١ يونيو / حزيران ٢٠٢٣",
-    publisher: "وكالة عمون الإخبارية ",
+    publisher: "وكالة عمون  ",
     commentNumber: "625",
   },
 
@@ -573,7 +573,7 @@ export const AllNews = [
     "source-url":
       "https://nabd.com/s/121278016-6fb4c2/%D8%A7%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D8%B1-%D9%85%D8%B9%D8%AF%D9%84-%D8%A7%D9%84%D8%AA%D8%B6%D8%AE%D9%85-%D9%81%D9%8A-%D8%A8%D8%B1%D9%8A%D8%B7%D8%A7%D9%86%D9%8A%D8%A7-%D8%B9%D9%86%D8%AF-8.7-%D8%B9%D9%84%D9%89-%D8%A3%D8%B3%D8%A7%D8%B3-%D8%B3%D9%86%D9%88%D9%8A-%D9%85%D8%AE%D8%A7%D9%84%D9%81%D8%A7%D9%8B-%D8%A7%D9%84%D8%AA%D9%88%D9%82%D8%B9%D8%A7%D8%AA",
     "published-datetime": "الأربعاء، ٢١ يونيو / حزيران ٢٠٢٣",
-    publisher: "وكالة عمون الإخبارية ",
+    publisher: "وكالة عمون  ",
     commentNumber: "254",
   },
 
@@ -590,7 +590,7 @@ export const AllNews = [
     "source-url":
       "https://nabd.com/s/121265102-b37aaf/%D9%85%D8%B3%D8%A7%D9%87%D9%85%D9%88-%D8%A8%D9%86%D9%83-%D8%B5%D8%AD%D8%A7%D8%B1-%D9%8A%D9%88%D8%A7%D9%81%D9%82%D9%88%D9%86-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A7%D9%86%D8%AF%D9%85%D8%A7%D8%AC-%D9%85%D8%B9-hsbc-%D8%B9%D9%8F%D9%85%D8%A7%D9%86",
     "published-datetime": "الأربعاء، ٢١ يونيو / حزيران ٢٠٢٣",
-    publisher: "وكالة عمون الإخبارية ",
+    publisher: "وكالة عمون  ",
     commentNumber: "415",
   },
 
@@ -607,7 +607,7 @@ export const AllNews = [
     "source-url":
       "https://nabd.com/s/121277462-caee77/%D8%AC%D9%87%D9%88%D8%AF-%D8%A7%D9%84%D8%A8%D8%AD%D8%AB-%D8%B9%D9%86-%D8%A7%D9%84%D8%BA%D9%88%D8%A7%D8%B5%D8%A9-%D8%AA%D9%8A%D8%AA%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D9%81%D9%82%D9%88%D8%AF%D8%A9-%D8%AA%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D9%84%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9",
     "published-datetime": "الأربعاء، ٢١ يونيو / حزيران ٢٠٢٣",
-    publisher: "وكالة عمون الإخبارية ",
+    publisher: "وكالة عمون  ",
     commentNumber: "54",
   },
 
@@ -643,7 +643,7 @@ export const AllNews = [
     "source-url":
       "    https://nabd.com/s/121288635-68e1b6/%D9%85%D8%A7-%D9%87%D9%8A-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D9%84%D8%AA%D8%B5%D9%84%D8%A8-%D8%A7%D9%84%D9%84%D9%88%D9%8A%D8%AD%D9%8A-%D8%A7%D9%84%D9%85%D8%AA%D8%B9%D8%AF%D8%AF%D8%9F-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A",
     "published-datetime": "الأربعاء، ٢١ يونيو / حزيران ٢٠٢٣",
-    publisher: "صحيفة الرأي الأردنية",
+    publisher: "صحيفة الرأي ",
     commentNumber: "451",
   },
 
@@ -661,7 +661,7 @@ export const AllNews = [
     "source-url":
       "  https://nabd.com/s/121235323-c5d80b/%D9%82%D8%B7%D8%B1-%D8%AA%D8%AA%D9%82%D8%AF%D9%85-%D9%84%D9%84%D9%85%D8%B1%D8%AA%D8%A8%D8%A9-12-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%8B-%D9%81%D9%8A-%D9%85%D8%A4%D8%B4%D8%B1-%D8%A7%D9%84%D8%AA%D9%86%D8%A7%D9%81%D8%B3%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A-%D9%84%D8%B9%D8%A7%D9%85-2023",
     "published-datetime": "الأربعاء، ٢١ يونيو / حزيران ٢٠٢٣",
-    publisher: "صحيفة الوكيل الإخبارية",
+    publisher: " الوكيل الإخباري",
     commentNumber: "102",
   },
 
@@ -680,7 +680,7 @@ export const AllNews = [
     "source-url":
       "  https://nabd.com/s/121273976-47e956/9-%D8%A3%D8%B7%D8%B9%D9%85%D8%A9-%D8%AA%D8%AD%D9%85%D9%8A%D9%83-%D9%85%D9%86-%D8%A7%D9%86%D8%B3%D8%AF%D8%A7%D8%AF-%D8%A7%D9%84%D8%B4%D8%B1%D8%A7%D9%8A%D9%8A%D9%86",
     "published-datetime": "الأربعاء، ٢١ يونيو / حزيران ٢٠٢٣",
-    publisher: "صحيفة الرأي الأردنية",
+    publisher: "صحيفة الرأي",
     commentNumber: "32",
   },
 
@@ -698,7 +698,7 @@ export const AllNews = [
     "source-url":
       " https://nabd.com/s/121288601-bb35b4/%D8%AA%D8%B9%D8%B1%D9%81-%D8%A7%D9%84%D9%89-%D8%A7%D9%87%D9%85-9-%D8%A7%D9%83%D9%84%D8%A7%D8%AA-%D8%AA%D9%82%D9%88%D9%8A-%D8%A7%D9%84%D8%B0%D8%A7%D9%83%D8%B1%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%B2-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A",
     "published-datetime": "الأربعاء، ٢١ يونيو / حزيران ٢٠٢٣",
-    publisher: "وكالة عمون الإخبارية ",
+    publisher: "وكالة عمون  ",
     commentNumber: "40",
   },
 
@@ -716,7 +716,7 @@ export const AllNews = [
     "source-url":
       " https://nabd.com/s/121246928-8d5314/%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D9%84%D9%84%D8%B9%D9%8A%D9%88%D9%86-%D8%A8%D8%AF%D9%8A%D9%84%D8%A7%D9%8B-%D8%B9%D9%86-%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A3%D9%88-%D8%A7%D9%84%D8%B9%D8%AF%D8%B3%D8%A7%D8%AA-%D8%A7%D9%84%D9%84%D8%A7%D8%B5%D9%82%D8%A9-%D9%84%D8%AA%D8%B5%D8%AD%D9%8A%D8%AD-%D8%A8%D8%B9%D8%B6-%D9%85%D8%B4%D8%A7%D9%83%D9%84-%D8%A7%D9%84%D8%B1%D8%A4%D9%8A%D8%A9-%D8%A7%D9%84%D8%B4%D8%A7%D8%A6%D8%B9%D8%A9%D8%8C-%D9%81%D9%85%D8%A7-%D9%81%D9%88%D8%A7%D8%A6%D8%AF%D9%87%D8%A7-%D9%88%D9%86%D8%AA%D8%A7%D8%A6%D8%AC%D9%87%D8%A7%D8%9F-%D9%88%D9%85%D8%A7-%D9%85%D8%AE%D8%A7%D8%B7%D8%B1%D9%87%D8%A7%D8%9F",
     "published-datetime": "الأربعاء، ٢١ يونيو / حزيران ٢٠٢٣",
-    publisher: "صحيفة الرأي الأردنية",
+    publisher: "صحيفة الرأي ",
     commentNumber: "620",
   },
 
@@ -734,7 +734,7 @@ export const AllNews = [
     "source-url":
       "  https://nabd.com/s/121221938-58d3c8/%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D9%87%D9%8A%D9%85%D9%88%D8%AC%D9%84%D9%88%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D8%AF%D9%85-%D9%87%D9%88-%D9%88%D8%AC%D9%88%D8%AF-%D9%85%D8%B3%D8%AA%D9%88%D9%89-%D8%BA%D9%8A%D8%B1-%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A-%D9%85%D9%86-%D8%A7%D9%84%D9%87%D9%8A%D9%85%D9%88%D8%AC%D9%84%D9%88%D8%A8%D9%8A%D9%86%D8%8C-%D9%88%D8%AA%D8%AD%D8%AF%D8%AB-%D9%87%D8%B0%D9%87-%D8%A7%D9%84%D8%AD%D8%A7%D9%84%D8%A9-%D9%86%D8%AA%D9%8A%D8%AC%D8%A9-%D9%84%D8%A3%D8%B3%D8%A8%D8%A7%D8%A8-%D8%B9%D8%AF%D9%8A%D8%AF%D8%A9-%D9%85%D9%86-%D8%A3%D9%87%D9%85%D9%87%D8%A7-%D8%AA%D8%B9%D8%B1%D9%81-%D8%A3%D9%83%D8%AB%D8%B1-%D8%B9%D9%84%D9%89-%D8%A3%D8%B3%D8%A8%D8%A7%D8%A8-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D9%87%D9%8A%D9%85%D9%88%D8%AC%D9%84%D9%88%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D8%AF%D9%85-%D9%85%D9%86-%D9%87%D9%86%D8%A7",
     "published-datetime": "الأربعاء، ٢١ يونيو / حزيران ٢٠٢٣",
-    publisher: "صحيفة الرأي الأردنية",
+    publisher: "صحيفة الرأي ",
     commentNumber: "200",
   },
 
@@ -752,7 +752,7 @@ export const AllNews = [
     "source-url":
       "https://nabd.com/s/121249666-3c92c5/%D9%8A%D9%85%D8%AA%D9%84%D9%83-%D8%A7%D9%84%D9%84%D9%8A%D9%85%D9%88%D9%86-%D8%B9%D8%AF%D8%AF-%D9%83%D8%A8%D9%8A%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D9%86%D8%A7%D8%B5%D8%B1-%D8%A7%D9%84%D8%BA%D8%B0%D8%A7%D8%A6%D9%8A%D8%A9%D8%8C-%D9%88%D9%87%D9%88-%D9%85%D8%A7-%D9%8A%D8%AC%D8%B9%D9%84%D9%87-%D9%85%D8%AB%D8%A7%D9%84%D9%8A-%D9%81%D9%8A-%D9%83%D8%AB%D9%8A%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6%D8%8C-%D8%A8%D9%85%D8%A7-%D9%81%D9%8A-%D8%B0%D9%84%D9%83-%D8%A7%D9%84%D8%AA%D8%AE%D9%84%D8%B5-%D9%85%D9%86-%D8%B1%D8%A7%D8%A6%D8%AD%D8%A9-%D8%AA%D8%B9%D8%B1%D9%81-%D8%A3%D9%83%D8%AB%D8%B1-%D8%B9%D9%84%D9%89-%D9%81%D9%88%D8%A7%D8%A6%D8%AF-%D8%A7%D9%84%D9%84%D9%8A%D9%85%D9%88%D9%86-%D9%84%D8%A5%D8%B2%D8%A7%D9%84%D8%A9-%D8%B1%D8%A7%D8%A6%D8%AD%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D9%82-%D9%85%D9%86-%D9%87%D9%86%D8%A7",
     "published-datetime": "الأربعاء، ٢١ يونيو / حزيران ٢٠٢٣",
-    publisher: "صحيفة الرأي الأردنية",
+    publisher: "صحيفة الرأي ",
     commentNumber: "130",
   },
 
@@ -805,7 +805,7 @@ export const AllNews = [
     "source-url":
       " https://nabd.com/s/121222490-6d14e9/%D8%B8%D9%87%D9%88%D8%B1-%D9%84%D9%88%D9%86-%D8%A7%D9%84%D8%AC%D9%84%D8%AF-%D9%81%D9%8A-%D8%A7%D9%84%D9%8A%D8%AF%D9%8A%D9%86-%D8%A8%D8%A7%D9%84%D8%A3%D8%B2%D8%B1%D9%82-%D8%A3%D9%88-%D8%A7%D9%84%D8%A3%D8%AD%D9%85%D8%B1%D8%8C-%D8%A3%D8%AD%D8%AF-%D8%A7%D9%84%D8%A3%D8%B9%D8%B1%D8%A7%D8%B6-%D8%A7%D9%84%D8%AA%D9%8A-%D9%8A%D8%AC%D8%A8-%D8%A3%D9%86-%D8%AA%D9%86%D8%AA%D8%A8%D9%87-%D9%84%D9%87%D8%A7-%D8%AC%D9%8A%D8%AF%D8%A7%D9%8B-%D9%84%D8%A3%D9%86%D9%87%D8%A7-%D9%8A%D9%85%D9%83%D9%86-%D8%A3%D9%86-%D8%AA%D8%B4%D9%8A%D8%B1-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%A8-%D8%AA%D8%B9%D8%B1%D9%81-%D8%A3%D9%83%D8%AB%D8%B1-%D8%B9%D9%84%D9%89-%D8%A3%D8%B9%D8%B1%D8%A7%D8%B6%D9%87%D8%A7-%D9%88%D8%A3%D8%B3%D8%A8%D8%A7%D8%A8%D9%87%D8%A7-%D9%88%D9%83%D9%8A%D9%81%D9%8A%D8%A9-%D8%B9%D9%84%D8%A7%D8%AC%D9%87%D8%A7-%D9%85%D9%86-%D9%87%D9%86%D8%A7",
     "published-datetime": "الأربعاء، ٢١ يونيو / حزيران ٢٠٢٣",
-    publisher: "صحيفة الرأي الأردنية",
+    publisher: "صحيفة الرأي ",
   },
 
   {
@@ -821,7 +821,7 @@ export const AllNews = [
     "source-url":
       " https://nabd.com/s/121215093-c72a9e/%D8%A8%D9%84%D8%B3%D9%85-%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A-%D9%84%D9%84%D8%B4%D8%B9%D8%B1-%D8%A7%D9%84%D8%AC%D8%A7%D9%81-%D9%88%D8%B9%D9%84%D8%A7%D8%AC-%D9%84%D8%AA%D8%B3%D8%A7%D9%82%D8%B7-%D8%A7%D9%84%D8%B4%D8%B9%D8%B1-%D9%88%D8%AA%D8%BA%D8%B0%D9%8A%D8%AA%D9%87%D8%8C-%D9%83%D9%84-%D9%87%D8%B0%D8%A7-%D9%88%D8%A3%D9%83%D8%AB%D8%B1-%D9%8A%D9%85%D9%83%D9%86-%D8%A7%D9%84%D8%AD%D8%B5%D9%88%D9%84-%D8%B9%D9%84%D9%8A%D9%87-%D9%85%D9%86-%D8%AB%D9%85%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D9%81%D9%88%D9%83%D8%A7%D8%AF%D9%88%D8%8C-%D8%A7%D9%83%D8%AA%D8%B4%D9%81%D9%8A-%D9%81%D9%88%D8%A7%D8%A6%D8%AF-%D9%84%D8%B4%D8%B9%D8%B1%D9%83-%D9%88%D8%AA%D8%B9%D8%B1%D9%81%D9%8A-%D8%B9%D9%84%D9%89-%D9%83%D9%8A%D9%81%D9%8A%D8%A9-%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85%D9%87",
     "published-datetime": "الأربعاء، ٢١ يونيو / حزيران ٢٠٢٣",
-    publisher: "صحيفة الرأي الأردنية",
+    publisher: "صحيفة الرأي ",
     commentNumber: "392",
   },
 
@@ -834,7 +834,7 @@ export const AllNews = [
       "https://cdnimg.royanews.tv/imageserv/Size728Q40/news/20230623/ocUBizMdfhFtUaZIej7LnRa5OeGfbStXreWm2yTM.png",
     description:
       "الخبراء يعتقدون أن معدل السير البطيء يسهم في تقليل حوادث المرور ويشجع أنماط جديدة من النقل. عندما يكون السير بطيئًا، يقل التداخل والاصطدام بين المركبات وتزداد سلامة الطرق. كما يعزز معدل السير البطيء استخدام وسائل نقل أخرى مثل الدراجات والمشاة، مما يؤدي إلى تقليل الازدحام وانبعاثات الكربون. ومع ذلك، يجب مراعاة التأثير السلبي على وقت السفر والتنقل العام.",
-    publisher: "صحيفة الرأي الأردنية",
+    publisher: "صحيفة الرأي ",
     "published-datetime": "الجمعة، ٢٣ يونيو ٢٠٢٣",
     commentNumber: "421",
   },
