@@ -7,7 +7,7 @@ width:30rem;
 
 }
 .hero-card-two{
-  background-image: url('../../public/images/world-bank.jpg');
+  background-image: url("https://almnatiq.net/wp-content/uploads/2023/06/4WIh0vW6I36RE7KclViHDH2O9R7Ds7oZ0bFDoAAt.webp");
   background-position: center;
   background-size: cover;
   width: 25rem;
@@ -137,41 +137,3 @@ width:30rem;
 /*banner style end*/
 
 
-/*Nav start*/
-
- 
-
-.navbar {
-  background-color: #27374d;
-}
-
-.nav-searchar {
-  width: 30%;
-  margin-left: 5%;
-}
-
-@media only screen and (max-width: 991px) {
-  .nav-searchBar {
-    width: 80%;
-  }
-  .navFlex {
-    padding-right: 5%;
-  }
-}
-
-.nav-searchBarPlaceholder {
-  background-color: #525d6c !important;
-}
-
-
-.Heading-secondNav {
-  background-color: #525d6c;
-}
-.Heading-secondNavLink {
-  color: #fff !important;
-}
-
-.Heading-secondNav {
-  margin-top: -8px;
-  margin-bottom: 0;
-}

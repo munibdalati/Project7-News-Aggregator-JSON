@@ -7,6 +7,7 @@ import { Row, Col, Container } from "react-bootstrap";
 import Aside from "../component/Aside";
 import NewCard from "../component/NewCard";
 import { AllNews } from "../newsData";
+import "../assets/index.css";
 
 // Add more objects
 

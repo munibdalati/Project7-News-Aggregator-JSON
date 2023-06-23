@@ -4,6 +4,7 @@ import { Form, FormControl, Button } from "react-bootstrap";
 import { Link } from "react-router-dom";
 import SignIn from "../pages/SignIn";
 import SignUp from "../pages/SignUp";
+import "../assets/index.css";
 
 const Header = () => {
   const currentDate = new Date().toLocaleDateString("ar-AR", {
@@ -20,15 +21,31 @@ const Header = () => {
           <div className="d-flex align-items-center justify-content-between">
             <div className="d-flex gap-4">
               <h4>
-                <Link to="/">
+                <Link
+                  to="/"
+                  className="text-light"
+                  style={{ textDecoration: "none" }}
+                >
                   المحطة <span style={{ color: "#EF4747" }}>الإخبارية</span>
                 </Link>
               </h4>
               <button className="header-sign">
-                <Link to="/SignIn">تسجيل دخول </Link>
+                <Link
+                  to="/SignIn"
+                  className="text-light"
+                  style={{ textDecoration: "none" }}
+                >
+                  تسجيل دخول{" "}
+                </Link>
               </button>
               <button className="header-sign">
-                <Link to="/SignUp">إنشاء حساب </Link>
+                <Link
+                  to="/SignUp"
+                  className="text-light"
+                  style={{ textDecoration: "none" }}
+                >
+                  إنشاء حساب{" "}
+                </Link>
               </button>
             </div>
             <div className="d-flex align-items-center gap-4">
@@ -71,42 +88,97 @@ const Header = () => {
                 />
               </Form>
               <Nav.Link href="#section1" className=" text-light px-2 main-news">
-                <Link to="/">
+                <Link to="/" style={{ textDecoration: "none" }}>
                   {" "}
                   <span style={{ color: "#EF4747" }}>الرئيسية </span>
                 </Link>
               </Nav.Link>
               <Nav.Link href="" className="text-light px-2">
-                <Link to="/breaking"> عاجل</Link>
+                <Link
+                  to="/breaking"
+                  className="text-light"
+                  style={{ textDecoration: "none" }}
+                >
+                  عاجل
+                </Link>
               </Nav.Link>
               <Nav.Link href="#section2" className="text-light px-2">
-                <Link to="/world">العالم</Link>
+                <Link
+                  to="/world"
+                  className="text-light"
+                  style={{ textDecoration: "none" }}
+                >
+                  العالم
+                </Link>
               </Nav.Link>
               <Nav.Link href="#section3" className="text-light px-2">
-                <Link to="/sport">رياضة</Link>
+                <Link
+                  to="/sport"
+                  className="text-light"
+                  style={{ textDecoration: "none" }}
+                >
+                  رياضة
+                </Link>
               </Nav.Link>
               <Nav.Link href="#section3" className="text-light px-2">
-                <Link to="/economy">إقتصاد</Link>
+                <Link
+                  to="/economy"
+                  className="text-light"
+                  style={{ textDecoration: "none" }}
+                >
+                  إقتصاد
+                </Link>
               </Nav.Link>
               <Nav.Link href="#section3" className="text-light px-2">
-                <Link to="/health">صحة</Link>
+                <Link
+                  to="/health"
+                  className="text-light"
+                  style={{ textDecoration: "none" }}
+                >
+                  صحة
+                </Link>
               </Nav.Link>
               <Nav.Link href="#section3" className="text-light px-2">
-                <Link to="/">منوعات</Link>{" "}
+                <Link
+                  to="#"
+                  className="text-light"
+                  style={{ textDecoration: "none" }}
+                >
+                  منوعات
+                </Link>{" "}
               </Nav.Link>
               <Nav.Link href="#section3" className="text-light px-2">
-                <Link to="/">البث المباشر</Link>
+                <Link
+                  to="#"
+                  className="text-light"
+                  style={{ textDecoration: "none" }}
+                >
+                  البث المباشر
+                </Link>
               </Nav.Link>
               <Nav.Link href="#section3" className="text-light px-2 ">
                 <button className="nav-sign">
                   {" "}
-                  <Link to="/SignIn">تسجيل دخول </Link>
+                  <Link
+                    to="/SignIn"
+                    className="text-light"
+                    style={{ textDecoration: "none" }}
+                  >
+                    تسجيل دخول{" "}
+                  </Link>
                 </button>
               </Nav.Link>
               <Nav.Link href="#section3" className="text-light px-2 ">
                 <button className="nav-sign">
                   {" "}
-                  <Link to="/SignUp"> إنشاء حساب </Link>
+                  <Link
+                    to="/SignUp"
+                    className="text-light"
+                    style={{ textDecoration: "none" }}
+                  >
+                    {" "}
+                    إنشاء حساب{" "}
+                  </Link>
                 </button>
               </Nav.Link>
             </Nav>
