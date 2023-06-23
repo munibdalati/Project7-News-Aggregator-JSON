@@ -6,9 +6,12 @@ const SignIn = () => {
     <section>
       <div className="col col-md-9 col-lg-12  mt-5">
         <div className="row justify-content-center mt-5 mx-0">
-          <div className="col col-md-5" id="lodin-reg-card">
+          <div
+            className=" sign-in-container p-4 col col-md-5"
+            id="lodin-reg-card"
+          >
             <div className="row text-center mt-md-5 mb-md-5">
-              <h1 style={{ color: "#32B0C7" }}>تسجيل الدخول</h1>
+              <h4 style={{ color: "#27374D" }}>تسجيل الدخول</h4>
             </div>
             <form className="mb-5">
               {/* <!-- Email input --> */}
@@ -43,7 +46,7 @@ const SignIn = () => {
 
               {/* <!-- 2 column grid layout for inline styling --> */}
               <div className="row mb-5">
-                <div className="col d-flex justify-content-center">
+                <div className="col d-flex justify-content-between">
                   {/* <!-- Checkbox --> */}
                   <div className="form-check">
                     <label className="form-check-label" for="form2Example31">
@@ -61,18 +64,23 @@ const SignIn = () => {
 
                 <div className="col">
                   {/* <!-- Simple link --> */}
-                  <a href="#!" style={{ color: "#32B0C7" }}>
+                  <a href="#!" style={{ color: "#27374D" }}>
                     هل تواجه مشكلة؟
                   </a>
                 </div>
               </div>
 
               {/* <!-- Submit button --> */}
-              <div class="row ps-5 pe-5">
+              <div class="row ps-5 pe-5 ">
                 <button
-                  id="signIn-btn"
                   type="button"
-                  class="btn  btn-block mb-4 login-btn"
+                  id="signUp-btn"
+                  className="btn btn-block mb-4 login-btn "
+                  style={{
+                    color: "#fff",
+                    backgroundColor: "#27374D",
+                    width: "7rem",
+                  }}
                 >
                   دخول
                 </button>
@@ -82,7 +90,7 @@ const SignIn = () => {
               <div className="text-center">
                 <p>
                   ليس لديك حساب؟{" "}
-                  <a href="signup.html" style={{ color: "#32B0C7" }}>
+                  <a href="signup.html" style={{ color: "#27374D" }}>
                     انشئ حساب
                   </a>
                 </p>
@@ -90,28 +98,28 @@ const SignIn = () => {
                 <button type="button" class="btn btn-link btn-floating mx-1">
                   <i
                     className="fa-brands fa-facebook fa-2xl"
-                    style={{ color: "#32B0C7" }}
+                    style={{ color: "#27374D" }}
                   ></i>
                 </button>
 
                 <button type="button" class="btn btn-link btn-floating mx-1">
                   <i
                     className="fab fa-google fa-2xl"
-                    style={{ color: "#32B0C7" }}
+                    style={{ color: "#27374D" }}
                   ></i>
                 </button>
 
                 <button type="button" class="btn btn-link btn-floating mx-1">
                   <i
                     class="fab fa-twitter fa-2xl"
-                    style={{ color: "#32B0C7" }}
+                    style={{ color: "#27374D" }}
                   ></i>
                 </button>
 
                 <button type="button" class="btn btn-link btn-floating mx-1">
                   <i
                     class="fab fa-github fa-2xl"
-                    style={{ color: "#32B0C7" }}
+                    style={{ color: "#27374D" }}
                   ></i>
                 </button>
               </div>
