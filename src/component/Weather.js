@@ -5,6 +5,13 @@ import Row from "react-bootstrap/Row";
 import Container from "react-bootstrap/Container";
 
 import "../assets/index.css";
+const currentDate = new Date().toLocaleDateString("ar-AR", {
+  weekday: "long",
+  year: "numeric",
+  month: "long",
+  day: "numeric",
+  numberingSystem: "arab",
+});
 
 // const demo = {
 //   lat: 33.44,
@@ -196,10 +203,23 @@ const Weather = () => {
       </div>
       <div className="d-flex align-items-center justify-content-center">
         <img
-          style={{ width: "10rem", height: "5rem" }}
+          style={{ width: "8rem", height: "5rem" }}
           src={process.env.PUBLIC_URL + "/images/cloud.png"}
           alt=""
         />
+      </div>
+      <div className="weather-details d-flex flex-column align-items-center justify-content-center p-3 gap-2">
+        <Row className="text-light">
+          <span>{currentDate}</span>
+        </Row>
+        <Row className="text-light">
+          <h1>
+            29 <sup>0</sup>
+          </h1>
+        </Row>
+        <Row className="text-light">صافي</Row>
+        <Row className="text-light">الرياح | 10كم/ساعة </Row>
+        <Row className="text-light">الرطوبة | 54% </Row>
       </div>
     </Container>
   );
