@@ -4,7 +4,5 @@ height: 5rem;
 
 border-radius: 50%; 
 box-shadow: 10px 10px 50px -18px rgba(0,0,0,0.31);
--webkit-box-shadow: 10px 10px 50px -18px rgba(0,0,0,0.31);
--moz-box-shadow: 10px 10px 50px -18px rgba(0,0,0,0.31);
 cursor: pointer;
 }
