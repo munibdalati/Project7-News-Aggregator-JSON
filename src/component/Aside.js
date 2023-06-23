@@ -75,36 +75,52 @@ const Aside = () => {
   return (
     <>
       {isViewportWideEnough && (
-        <Container className="aside-container">
+        <Container className="aside-container d-flex flex-column gap-3 mt-3">
+          <Row className="text-center d-flex mb-4">
+            <Col
+              className=" d-flex flex-column  justify-content-center align-items-center p-2"
+              style={{ background: "#ff0000" }}
+            >
+              <i class="fa-brands fa-google" style={{ color: "white" }}></i>
+              <span className="text-light">524</span>
+            </Col>
+            <Col
+              className=" d-flex flex-column  justify-content-center align-items-center p-2"
+              style={{ background: "#016cfe" }}
+            >
+              <i
+                class="fa-brands fa-facebook-f "
+                style={{ color: "white" }}
+              ></i>
+              <span className="text-light">654</span>
+            </Col>
+            <Col
+              className="d-flex flex-column  justify-content-center align-items-center p-2"
+              style={{ background: "#4cd4f2" }}
+            >
+              <i class="fa-brands fa-twitter " style={{ color: "white" }}></i>
+              <span className="text-light">263</span>
+            </Col>
+            <Col
+              className="d-flex flex-column  justify-content-center align-items-center p-2"
+              style={{ background: "orange" }}
+            >
+              <i class="fa-solid fa-rss " style={{ color: "white" }}></i>
+              <span className="text-light">345</span>
+            </Col>
+          </Row>
           <Row className="aside-news-agencies d-flex gap-4">
             {newsAgencies.map((newsAgency) => (
               <img src={newsAgency.image} alt={newsAgency.name} />
             ))}
-            <p className="text-start">المزيد</p>
+            <a
+              href="#"
+              className="text-start text-decoration-none text-dark pointer"
+            >
+              المزيد
+            </a>
           </Row>
-          <Row className="text-center d-flex mb-4">
-            <Col className="p-2" style={{ background: "#ff0000" }}>
-              <i
-                class="fa-brands fa-google py-2"
-                style={{ color: "white" }}
-              ></i>
-            </Col>
-            <Col className="p-2" style={{ background: "#016cfe" }}>
-              <i
-                class="fa-brands fa-facebook-f py-2"
-                style={{ color: "white" }}
-              ></i>
-            </Col>
-            <Col className="p-2" style={{ background: "#4cd4f2" }}>
-              <i
-                class="fa-brands fa-twitter py-2"
-                style={{ color: "white" }}
-              ></i>
-            </Col>
-            <Col className="p-2" style={{ background: "orange" }}>
-              <i class="fa-solid fa-rss py-2" style={{ color: "white" }}></i>
-            </Col>
-          </Row>
+
           <Weather />
           <Calendar />
         </Container>
