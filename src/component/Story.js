@@ -3,18 +3,19 @@ import Card from "react-bootstrap/Card";
 import { Row, Col, Container } from "react-bootstrap";
 import "../assets/index.css";
 import { AllNews } from "../newsData";
+import { StoriesData } from "../StoriesData";
 
 function Story() {
   return (
     <div className="story-row ">
-      {AllNews.map((e) => (
-        <div className="story" key={e.id}>
-          <img src={e.image} alt={e.name} />
+      {StoriesData.map((e) => (
+        <div className="story">
+          <img src={e.image} alt="sf" />
           <span
-            className="story-name "
+            className="story-name text-dark "
             style={{ fontSize: "10px", fontWeight: "bold" }}
           >
-            {e.publisher}
+            {e.name}
           </span>
         </div>
       ))}

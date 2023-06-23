@@ -3,6 +3,7 @@
 import Col from "react-bootstrap/Col";
 import Row from "react-bootstrap/Row";
 import Container from "react-bootstrap/Container";
+import "../assets/weather.css";
 
 import "../assets/index.css";
 const currentDate = new Date().toLocaleDateString("ar-AR", {
@@ -203,7 +204,7 @@ const Weather = () => {
       </div>
       <div className="d-flex align-items-center justify-content-center">
         <img
-          style={{ width: "8rem", height: "5rem" }}
+          style={{ width: "7rem", height: "5rem" }}
           src={process.env.PUBLIC_URL + "/images/cloud.png"}
           alt=""
         />

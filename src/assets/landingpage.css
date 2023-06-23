@@ -90,6 +90,7 @@ width:30rem;
   display: flex;
   justify-content: end;
   align-items: center;
+  gap: 2rem;
 }
 
 
@@ -98,7 +99,7 @@ width:30rem;
   display: inline-flex;
   flex-direction: column;
   align-items: center;
-  margin-right: 10px;
+
 }
 
 
