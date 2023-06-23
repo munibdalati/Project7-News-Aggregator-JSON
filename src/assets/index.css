@@ -6,6 +6,7 @@
 @import "../assets/Category.css";
 @import "../assets/NewCard.css";
 @import "../assets/weather.css";
+@import "../assets/SignUp.css";
 
 
 
@@ -20,6 +21,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   box-sizing: border-box;
+  
 }
 
 code {

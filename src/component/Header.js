@@ -90,7 +90,7 @@ const Header = () => {
               <Nav.Link href="#section1" className=" text-light px-2 main-news">
                 <Link to="/" style={{ textDecoration: "none" }}>
                   {" "}
-                  <span style={{ color: "#EF4747" }}>الرئيسية </span>
+                  <span style={{ color: "#EF4747" }}>الرئيسية</span>
                 </Link>
               </Nav.Link>
               <Nav.Link href="" className="text-light px-2">
