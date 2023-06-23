@@ -10,7 +10,7 @@ function Calender() {
     <div>
       <Calendar
         className="calendar-card"
-        style={{ width: "20rem" }}
+        style={{ width: "50rem" }}
         onChange={onChange}
         value={value}
       />
