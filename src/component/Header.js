@@ -35,7 +35,7 @@ const Header = () => {
                   className="text-light"
                   style={{ textDecoration: "none" }}
                 >
-                  تسجيل دخول{" "}
+                  تسجيل دخول
                 </Link>
               </button>
               <button className="header-sign">
