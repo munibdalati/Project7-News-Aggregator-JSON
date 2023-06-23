@@ -121,8 +121,13 @@ const Aside = () => {
             </a>
           </Row>
 
-          <Weather />
-          <Calendar />
+          <Row>
+            <Weather />
+          </Row>
+
+          <Row>
+            <Calendar />
+          </Row>
         </Container>
       )}
     </>
