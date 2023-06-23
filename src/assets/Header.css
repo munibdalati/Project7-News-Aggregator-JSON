@@ -34,8 +34,12 @@
   border:none;
   padding: 0;
 }
+.header-search-form{
+  width: 20rem;
+}
 .nav-search-form{
   display: none;
+ 
 }
 .search-field{
  
@@ -60,7 +64,7 @@
 }
 .nav-search-form{
   display: block;
-  width: 20rem;
+  width: 18rem;
   margin-top: 1rem;
 }
 .nav-sign{

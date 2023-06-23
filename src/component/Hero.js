@@ -5,10 +5,13 @@ import "../assets/index.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faComment } from "@fortawesome/free-regular-svg-icons";
 import "@fortawesome/fontawesome-free/css/all.min.css";
+import { Link } from "react-router-dom";
+import { AllNews } from "../newsData";
 
 export default function Hero() {
+  console.log(AllNews[28]);
   return (
-    <div className="hero-container d-flex justify-content-center my-4">
+    <div className="hero-container d-flex justify-content-center my-4 ">
       <Card
         className="hero-card-one"
         style={{
@@ -31,14 +34,21 @@ export default function Hero() {
             رياضة
           </span>
 
-          <Card.Text>
-            كوكا: لم أحصل على فرصتي كاملة مع المنتخب.. ورفضت عروضا من مصر
-            والسعودية{" "}
-          </Card.Text>
+          <Link
+            to={`/Details/${AllNews[21].id}`}
+            className="text-light"
+            style={{ textDecoration: "none" }}
+          >
+            {" "}
+            <Card.Text>
+              عامر حسين: الأهلي سيستمر في اللعب بعد نهاية الدوري.. وفيفا استفسر
+              عن احفتال أفشة
+            </Card.Text>
+          </Link>
           <div className="hero-card-tail">
-            <div>بواسطة: صحيفة الرأي الأردنية</div>
+            <div>بواسطة : {AllNews[21].publisher} </div>
             <div>
-              23 <FontAwesomeIcon icon={faComment} />
+              764 <FontAwesomeIcon icon={faComment} />
             </div>
           </div>
         </Card.Body>
@@ -59,14 +69,17 @@ export default function Hero() {
           >
             إقتصاد
           </span>
-          <Card.Text>
-            البنك الدولي يوافق على تمويل بقيمة 250 مليون دولار لتحسن الخدمات
-            المائية بالمملكة
-          </Card.Text>
+          <Link
+            to={`/Details/${AllNews[28].id}`}
+            className="text-light"
+            style={{ textDecoration: "none" }}
+          >
+            <Card.Text>{AllNews[28].title}</Card.Text>
+          </Link>
           <div className="hero-card-tail">
-            <div>بواسطة: خبرني</div>
+            <div>بواسطة: {AllNews[28].publisher}</div>
             <div>
-              23 <FontAwesomeIcon icon={faComment} />
+              366 <FontAwesomeIcon icon={faComment} />
             </div>
           </div>
         </Card.Body>
@@ -86,14 +99,17 @@ export default function Hero() {
           >
             منوعات
           </span>
-          <Card.Text className="">
-            خبراء: معدل السير يحد من الحوادث المرورية ويُعالج أنماط جديدة من
-            النقل.. إضافة أولى وأخيرة
-          </Card.Text>
+          <Link
+            to={`/Details/${AllNews[46].id}`}
+            className="text-light"
+            style={{ textDecoration: "none" }}
+          >
+            <Card.Text className="">{AllNews[46].title}</Card.Text>
+          </Link>
           <div className="hero-card-tail">
-            <div>بواسطة: صحيفة الرأي الأردنية</div>
+            <div>بواسطة:{AllNews[46].publisher}</div>
             <div>
-              23 <FontAwesomeIcon icon={faComment} />
+              1254 <FontAwesomeIcon icon={faComment} />
             </div>
           </div>
         </Card.Body>

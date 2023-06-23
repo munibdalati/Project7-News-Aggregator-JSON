@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
-import "../assets/weather.css";
+import "../assets/index.css";
 
 const demo = {
   lat: 33.44,

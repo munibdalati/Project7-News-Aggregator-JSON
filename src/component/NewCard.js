@@ -1,4 +1,10 @@
 import Card from "react-bootstrap/Card";
+import { Link } from "react-router-dom";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faComment } from "@fortawesome/free-regular-svg-icons";
+import "@fortawesome/fontawesome-free/css/all.min.css";
+import NewDetails from "../pages/NewDetails";
+import "../assets/index.css";
 
 function NewCard({ data }) {
   return (
@@ -9,12 +15,20 @@ function NewCard({ data }) {
         src={data.image}
       />
       <Card.Body>
-        <Card.Title>{data.title}</Card.Title>
-        <Card.Text>المنتخب الأولمبي يودع منافسات بطولة غرب آسيا</Card.Text>
+        <Card.Title>
+          <Link
+            to={`/Details/${data.id}`}
+            className="text-dark"
+            style={{ textDecoration: "none" }}
+          >
+            {data.title}
+          </Link>
+        </Card.Title>
+
         <div className="d-flex justify-content-between">
-          <Card.Text>بواسطة خبرني</Card.Text>
+          <Card.Text> {data.publisher}</Card.Text>
           <Card.Text>
-            23 <i class="fa-regular sfa-comment-dots"></i>
+            {data.commentNumber} <FontAwesomeIcon icon={faComment} />
           </Card.Text>
         </div>
       </Card.Body>
