@@ -1,7 +1,11 @@
+
 import "../assets/index.css";
 import {Link} from 'react-router-dom'
 import React, { useState } from "react";
 import axios from "axios";
+import React from "react";
+import "../assets/index.css";
+
 
 const SignIn = () => {
   const [email, setEmail] = useState("");
@@ -87,6 +91,12 @@ const SignIn = () => {
                   يرجى ادخال صيغة بريد إلكتروني صحيحة مثل name@example.com
                 </label>
               )}
+                />
+                <label
+                  id="email-error"
+                  className="form-label"
+                  for="email"
+                ></label>
               </div>
 
               {/* <!-- Password input --> */}
@@ -100,6 +110,15 @@ const SignIn = () => {
                   onChange={handlePasswordChange}
                 />
                 {<label style={{color:"red"}}>{error}</label>}
+                  typeName="password"
+                  id="pass"
+                  class="form-control"
+                />
+                <label
+                  id="pass-error"
+                  className="form-label"
+                  for="pass"
+                ></label>
               </div>
 
               {/* <!-- 2 column grid layout for inline styling --> */}
@@ -152,6 +171,9 @@ const SignIn = () => {
                   <Link to="/signup" style={{ color: "#27374D" }}>
                     انشئ حساب
                   </Link>
+                  <a href="signup.html" style={{ color: "#27374D" }}>
+                    انشئ حساب
+                  </a>
                 </p>
                 <p>أو سجل الدخول بواسطة:</p>
                 <button type="button" class="btn btn-link btn-floating mx-1">

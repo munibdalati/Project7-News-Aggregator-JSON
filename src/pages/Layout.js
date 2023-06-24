@@ -10,6 +10,9 @@ import SignIn from "./SignIn";
 import SignUp from "./SignUp";
 import NewDetails from "./NewDetails";
 import "../assets/index.css";
+import Footer from "../component/Footer";
+import "../assets/index.css";
+import LiveBroadCast from "./LiveBroadCast";
 
 const Layout = () => {
   return (
@@ -22,6 +25,7 @@ const Layout = () => {
         <Route path="/signIn" Component={SignIn} />
         <Route path="/signup" Component={SignUp} />
         <Route path="/:type" Component={Category} />
+        <Route path="/LiveBroadCast" Component={LiveBroadCast} />
       </Routes>
       <Footer />
     </BrowserRouter>

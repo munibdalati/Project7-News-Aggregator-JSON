@@ -15,6 +15,7 @@ function Calender() {
         value={value}
       />
     </div>
+    <Calendar className="calendar-card p-0" onChange={onChange} value={value} />
   );
 }
 

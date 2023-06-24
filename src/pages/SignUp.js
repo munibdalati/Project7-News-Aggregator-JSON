@@ -1,5 +1,8 @@
+
 import React, { useState } from "react";
 import axios from "axios";
+import React from "react";
+
 
 const SignUp = () => {
   const [firstName, setFirstName] = useState("");
@@ -149,6 +152,11 @@ const SignUp = () => {
               <label
                 className="form-label"
                 htmlFor="firstName"
+            {/* {<!-- First Name input -->} */}
+            <div className="form-outline mb-4">
+              <label
+                className="form-label"
+                for="firstName"
                 style={{ color: "#27374D" }}
               >
                 الاسم الأول
@@ -166,6 +174,13 @@ const SignUp = () => {
               <label
                 className="form-label"
                 htmlFor="lastName"
+              <input type="text" id="firstName" class="form-control" />
+            </div>
+            {/* {<!-- Second Name input -->} */}
+            <div className="form-outline mb-4">
+              <label
+                className="form-label"
+                for="secondName"
                 style={{ color: "#27374D" }}
               >
                 اسم العائلة
@@ -183,6 +198,14 @@ const SignUp = () => {
               <label
                 className="form-label"
                 htmlFor="email"
+              <input type="text" id="secondName" class="form-control" />
+            </div>
+
+            {/* <!-- Email input --> */}
+            <div className="form-outline mb-4">
+              <label
+                className="form-label"
+                for="email"
                 style={{ color: "#27374D" }}
               >
                 البريد الإلكتروني
@@ -205,6 +228,14 @@ const SignUp = () => {
               <label
                 className="form-label"
                 htmlFor="pass"
+              <input type="email" id="email" class="form-control" />
+            </div>
+
+            {/* <!-- Password input --> */}
+            <div className="form-outline mb-4">
+              <label
+                className="form-label"
+                for="pass"
                 style={{ color: "#27374D" }}
               >
                 الرقم السري
@@ -222,6 +253,14 @@ const SignUp = () => {
               <label
                 className="form-label"
                 htmlFor="conPass"
+              <input type="password" id="pass" class="form-control" />
+            </div>
+
+            {/* <!-- Confirm Password input --> */}
+            <div className="form-outline mb-4">
+              <label
+                className="form-label"
+                for="ConPass"
                 style={{ color: "#27374D" }}
               >
                 تأكيد الرقم السري
@@ -246,12 +285,19 @@ const SignUp = () => {
               </div>
             )}
 
+              <input type="password" id="conPass" class="form-control" />
+            </div>
+
+            {/* <!-- 2 column grid layout for inline styling --> */}
+
+            {/* <!-- Submit button --> */}
             <div className="row px-5">
               <button
                 type="button"
                 id="signUp-btn"
                 className="btn btn-block mb-4 login-btn"
                 onClick={saveData}
+                class="btn btn-block mb-4 login-btn"
                 style={{
                   color: "#fff",
                   backgroundColor: "#27374D",

@@ -2,7 +2,6 @@ import React from "react";
 import Hero from "../component/Hero";
 import Story from "../component/Story";
 import AddsBanner from "../component/AddsBanner";
-import Header from "../component/Header";
 import { Row, Col, Container } from "react-bootstrap";
 import Aside from "../component/Aside";
 import NewCard from "../component/NewCard";
@@ -14,8 +13,12 @@ import "../assets/index.css";
 const Home = () => {
   return (
     <div className="">
+
       <div className="">
         <Hero />
+      <div className=" d-flex flex-column justify-content-center align-items-center mb-5">
+        <Hero />
+        <AddsBanner />
       </div>
       <Container>
         <Row>
@@ -23,6 +26,9 @@ const Home = () => {
             <Aside />
           </Col>
           <Col lg={9}>
+
+          <Col lg={9} className="d-flex flex-column gap-4">
+
             <Row>
               <Story />
             </Row>

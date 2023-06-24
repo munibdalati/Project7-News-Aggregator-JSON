@@ -72,6 +72,11 @@ const Header = () => {
         <Navbar className="head-nav px-5" expand="lg">
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
 
+      {/* Second section */}
+      <Row>
+        <Navbar className="head-nav px-3" expand="lg">
+          <Navbar.Toggle aria-controls="basic-navbar-nav" />
+
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="ml-auto gap-4">
               <Form className="nav-search-form px-2 text-light">
@@ -150,6 +155,10 @@ const Header = () => {
               <Nav.Link href="#section3" className="text-light px-2">
                 <Link
                   to="#"
+
+              <Nav.Link href="#section3" className="text-light px-2">
+                <Link
+                  to="/LiveBroadCast"
                   className="text-light"
                   style={{ textDecoration: "none" }}
                 >

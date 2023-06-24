@@ -1,5 +1,11 @@
 export const StoriesData = [
   { name: "خبرني", image: "https://pbs.twimg.com/media/Fy-FHr0aUAET757.jpg" },
+=======
+  {
+    name: "حلب اليوم",
+    image:
+      "https://images.skynewsarabia.com/images/v1/2019/05/16/1252563/1920/1080/1-1252563.jpg",
+  },
   {
     name: "صحيفة الرأي",
     image:
@@ -49,5 +55,11 @@ export const StoriesData = [
     name: "حلب اليوم",
     image:
       "https://images.skynewsarabia.com/images/v1/2019/05/16/1252563/1920/1080/1-1252563.jpg",
+=======
+
+  {
+    name: "خبرني",
+    image:
+      "https://images.skynewsarabia.com/images/v1/2023/06/19/1630604/1920/1080/1-1630604.jpg",
   },
 ];
