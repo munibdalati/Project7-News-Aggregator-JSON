@@ -22,7 +22,7 @@ const Home = () => {
           <Col lg={3}>
             <Aside />
           </Col>
-          <Col lg={9}>
+          <Col lg={9} className="d-flex flex-column gap-4">
             <Row>
               <Story />
             </Row>

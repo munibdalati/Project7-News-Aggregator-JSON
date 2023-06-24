@@ -7,14 +7,7 @@ function Calender() {
   const [value, onChange] = useState(new Date());
 
   return (
-    <div>
-      <Calendar
-        className="calendar-card"
-        style={{ width: "50rem" }}
-        onChange={onChange}
-        value={value}
-      />
-    </div>
+    <Calendar className="calendar-card p-0" onChange={onChange} value={value} />
   );
 }
 

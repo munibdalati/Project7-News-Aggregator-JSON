@@ -1,5 +1,9 @@
 export const StoriesData = [
-  { name: "خبرني", image: "https://pbs.twimg.com/media/Fy-FHr0aUAET757.jpg" },
+  {
+    name: "حلب اليوم",
+    image:
+      "https://images.skynewsarabia.com/images/v1/2019/05/16/1252563/1920/1080/1-1252563.jpg",
+  },
   {
     name: "صحيفة الرأي",
     image:
@@ -45,9 +49,10 @@ export const StoriesData = [
     image:
       "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_118,w_4993,h_2808,c_crop/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2023/06/19/images/243132.jpg",
   },
+
   {
-    name: "حلب اليوم",
+    name: "خبرني",
     image:
-      "https://images.skynewsarabia.com/images/v1/2019/05/16/1252563/1920/1080/1-1252563.jpg",
+      "https://images.skynewsarabia.com/images/v1/2023/06/19/1630604/1920/1080/1-1630604.jpg",
   },
 ];
