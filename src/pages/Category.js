@@ -113,8 +113,8 @@ const Category = () => {
       </Row>
 
       <Row>
-        <Col className="d-flex align-items-center justify-content-center">
-          <h5 className="category-more my-4 ">المزيد</h5>
+        <Col className=" category-more d-flex align-items-center justify-content-center ">
+          <h5 className="category-more my-4 "> المزيد</h5>
         </Col>
       </Row>
 
