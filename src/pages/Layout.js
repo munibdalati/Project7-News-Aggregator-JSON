@@ -1,6 +1,5 @@
 import React from "react";
 import Header from "../component/Header";
-import Footer from "../component/Footer";
 import Sports from "./Sports";
 import Category from "./Category";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
@@ -23,7 +22,6 @@ const Layout = () => {
         <Route path="/signup" Component={SignUp} />
         <Route path="/:type" Component={Category} />
       </Routes>
-      <Footer />
     </BrowserRouter>
   );
 };
