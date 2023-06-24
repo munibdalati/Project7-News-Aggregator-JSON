@@ -138,15 +138,7 @@ const Header = () => {
                   صحة
                 </Link>
               </Nav.Link>
-              <Nav.Link href="#section3" className="text-light px-2">
-                <Link
-                  to="#"
-                  className="text-light"
-                  style={{ textDecoration: "none" }}
-                >
-                  منوعات
-                </Link>{" "}
-              </Nav.Link>
+
               <Nav.Link href="#section3" className="text-light px-2">
                 <Link
                   to="#"

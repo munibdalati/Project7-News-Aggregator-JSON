@@ -4,7 +4,7 @@ import "../assets/index.css";
 const AddsBanner = () => {
   return (
     <div className="banner">
-      <div className="banner-body">
+      <div className="banner-body p-4">
         <p className="text-light">
           لكل محبّي التكنولوجيا.. لشبابنا وشاباتنا المبتكرين، فرصتكم للمشاركة في
           5G الهاكاثون من Orange Innovation Hub لعرض ابتكاراتكم وإبداعاتكم!
