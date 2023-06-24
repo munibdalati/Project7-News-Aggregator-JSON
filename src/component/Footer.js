@@ -58,20 +58,6 @@ import "../assets/index.css";
 
 const Footer = () => {
   return (
-    <footer className="footer mt-auto py-3">
-      <Container fluid className="d-flex flex-column justify-content-center">
-        <Row
-          className="d-flex flex-column justify-content-center align-items-center"
-          style={{ backgroundColor: "#324", color: "#fff" }}
-        >
-          dkgn
-        </Row>
-        <Row
-          className="d-flex flex-column justify-content-center align-items-center"
-          style={{ color: "#000" }}
-        >
-          dkgn
-        </Row>
     <footer className="footer mt-auto py-3 text-center">
       <Container fluid className="d-flex flex-column justify-content-center">
         <Row

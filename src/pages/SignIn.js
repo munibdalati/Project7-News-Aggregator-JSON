@@ -3,7 +3,6 @@ import "../assets/index.css";
 import {Link} from 'react-router-dom'
 import React, { useState } from "react";
 import axios from "axios";
-import React from "react";
 import "../assets/index.css";
 
 
@@ -90,14 +89,8 @@ const SignIn = () => {
                 <label style={{ color: "red" }}>
                   يرجى ادخال صيغة بريد إلكتروني صحيحة مثل name@example.com
                 </label>
-              )}
-                />
-                <label
-                  id="email-error"
-                  className="form-label"
-                  for="email"
-                ></label>
-              </div>
+                )}
+                </div>
 
               {/* <!-- Password input --> */}
               <div className="form-outline mb-4">
@@ -110,15 +103,6 @@ const SignIn = () => {
                   onChange={handlePasswordChange}
                 />
                 {<label style={{color:"red"}}>{error}</label>}
-                  typeName="password"
-                  id="pass"
-                  class="form-control"
-                />
-                <label
-                  id="pass-error"
-                  className="form-label"
-                  for="pass"
-                ></label>
               </div>
 
               {/* <!-- 2 column grid layout for inline styling --> */}

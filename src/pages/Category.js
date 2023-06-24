@@ -34,7 +34,6 @@ const Category = () => {
               أخبار الرياضة
             </p>
 
-
             <AddsBanner />
 
             <Row className="d-flex justify-content-center gap-4 my-5">
@@ -53,7 +52,6 @@ const Category = () => {
             >
               أخبار الاقتصاد
             </p>
-
             <AddsBanner />
             <Row className="d-flex justify-content-center gap-4 my-5">
               {filteredObjectsEconomy.map((obj) => (
@@ -70,7 +68,6 @@ const Category = () => {
             >
               عاجل
             </p>
-
             <AddsBanner />
             <Row className="d-flex justify-content-center gap-4 my-5">
               {filteredObjectsBreaking.map((obj) => (
@@ -89,7 +86,6 @@ const Category = () => {
               أخبار العالم
             </p>
             <AddsBanner />
-
             <Row className="d-flex justify-content-center gap-4 my-5">
               {filteredObjectsWorld.map((obj) => (
                 <NewCard data={obj} />
@@ -117,13 +113,8 @@ const Category = () => {
       </Row>
 
       <Row>
-
-        <Col className="d-flex align-items-center justify-content-center">
-          <h5 className="category-more my-4 ">المزيد</h5>
-
         <Col className=" category-more d-flex align-items-center justify-content-center ">
           <h5 className="category-more my-4 "> المزيد</h5>
-
         </Col>
       </Row>
 

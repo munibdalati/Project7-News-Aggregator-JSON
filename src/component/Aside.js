@@ -48,11 +48,6 @@ const newsAgencies = [
 ];
 
 const Aside = () => {
-
-  const [isViewportWideEnough, setIsViewportWideEnough] = useState(
-    window.innerWidth > 992
-  );
-
   //display block for Aside when the width greater than 992 and disappear when the width less than 992
 
   const [isViewportWideEnough, setIsViewportWideEnough] = useState(
@@ -81,7 +76,6 @@ const Aside = () => {
   return (
     <>
       {isViewportWideEnough && (
-        <Container className="aside-container d-flex flex-column gap-3 mt-3">
         <Container className="aside-container d-flex flex-column gap-4 mt-3">
           <Row className="text-center d-flex mb-4">
             <Col
