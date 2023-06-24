@@ -1,28 +1,31 @@
-import React from 'react'
-import Header from '../component/Header'
-import Footer from '../component/Footer'
-import Sports from './Sports'
-import { BrowserRouter, Route, Routes } from 'react-router-dom'
-import Home from './Home'
-import Details from './Details'
-import SignIn from './SignIn'
-import SignUp from './SignUp'
-
+import React from "react";
+import Header from "../component/Header";
+import Footer from "../component/Footer";
+import Sports from "./Sports";
+import Category from "./Category";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
+import Home from "./Home";
+import Details from "./Details";
+import SignIn from "./SignIn";
+import SignUp from "./SignUp";
+import NewDetails from "./NewDetails";
+import "../assets/index.css";
 
 const Layout = () => {
   return (
     <BrowserRouter>
-    <Header/>
-    <Routes>
-        <Route path='/' Component={Home}/>
-        <Route path='/sports' Component={Sports}/>
-        <Route path='/details' Component={Details}/>
-        <Route path='/signin' Component={SignIn}/>
-        <Route path='/signup' Component={SignUp}/>
-    </Routes>
-    <Footer/>
+      <Header />
+      <Routes>
+        <Route path="/" Component={Home} />
+        <Route path="/sports" Component={Sports} />
+        <Route path="/Details/:id" Component={Details} />
+        <Route path="/signIn" Component={SignIn} />
+        <Route path="/signup" Component={SignUp} />
+        <Route path="/:type" Component={Category} />
+      </Routes>
+      <Footer />
     </BrowserRouter>
-  )
-}
+  );
+};
 
-export default Layout
+export default Layout;

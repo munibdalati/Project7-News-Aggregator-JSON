@@ -1,40 +1,79 @@
-/* first navbar */
-.navbar {
-  background-color: #27374d;
+/* header start*/
+
+.head{
+  background-color: #27374D;
+  color: #fff;
+
+}
+.head-nav{
+  background-color: #525D6C;
+  
+}
+.header-sign{
+  background-color: #27374D;
+  border: none;
+  color: #fff;
+}
+.main-news{
+  position: relative;
+}
+.main-news::after{
+  content: '';
+  width: 2px;
+  height: 1.8rem;
+  background-color: #fff;
+  position: absolute;
+  right: 5rem;
+  top: 0.5rem;
+}
+/* header end*/
+.nav-sign{
+  display: none;
+  background-color: #525D6C;
+  color: #fff;
+  border:none;
+  padding: 0;
+}
+.header-search-form{
+  width: 20rem;
+}
+.nav-search-form{
+  display: none;
+ 
+}
+.search-field{
+ 
+  background-color: #27374D;
+  color: #fff;
+
+}
+/* .search-field::placeholder{
+  
+  
+} */
+.search-field:focus{
+  border:none;
 }
 
-.nav-searchBar {
-  width: 30%;
-  margin-left: 5%;
+@media (max-width:992px){
+  .header-sign{
+    display: none;
 }
-
-@media only screen and (max-width: 991px) {
-  .nav-searchBar {
-    width: 80%;
-  }
-  .navFlex {
-    padding-right: 5%;
-  }
+.header-search-form{
+  display: none;
 }
-
-.nav-searchBarPlaceholder {
-  background-color: #525d6c !important;
+.nav-search-form{
+  display: block;
+  width: 18rem;
+  margin-top: 1rem;
 }
-
-/* second navbar */
-
-.Heading-secondNav {
-  background-color: #525d6c;
+.nav-sign{
+  display: block;
 }
-.Heading-secondNavLink {
-  color: #fff !important;
+.main-news::after{
+  content: "";
+  width: 0;
+  height: 0;
 }
-
-.Heading-secondNav {
-  margin-top: -8px;
-  margin-bottom: 0;
 }
-
-.custom-placeholder ::placeholder {
-  color: #fff !important;
-}
+/* navbar end*/
