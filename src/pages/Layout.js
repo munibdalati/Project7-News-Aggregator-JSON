@@ -1,5 +1,6 @@
 import React from "react";
 import Header from "../component/Header";
+import Footer from "../component/Footer";
 import Sports from "./Sports";
 import Category from "./Category";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
@@ -8,6 +9,7 @@ import Details from "./Details";
 import SignIn from "./SignIn";
 import SignUp from "./SignUp";
 import NewDetails from "./NewDetails";
+import "../assets/index.css";
 import Footer from "../component/Footer";
 import "../assets/index.css";
 import LiveBroadCast from "./LiveBroadCast";

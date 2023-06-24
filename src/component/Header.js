@@ -69,6 +69,11 @@ const Header = () => {
 
       {/* Second section */}
       <Row>
+        <Navbar className="head-nav px-5" expand="lg">
+          <Navbar.Toggle aria-controls="basic-navbar-nav" />
+
+      {/* Second section */}
+      <Row>
         <Navbar className="head-nav px-3" expand="lg">
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
 
@@ -138,6 +143,18 @@ const Header = () => {
                   صحة
                 </Link>
               </Nav.Link>
+              <Nav.Link href="#section3" className="text-light px-2">
+                <Link
+                  to="#"
+                  className="text-light"
+                  style={{ textDecoration: "none" }}
+                >
+                  منوعات
+                </Link>{" "}
+              </Nav.Link>
+              <Nav.Link href="#section3" className="text-light px-2">
+                <Link
+                  to="#"
 
               <Nav.Link href="#section3" className="text-light px-2">
                 <Link
