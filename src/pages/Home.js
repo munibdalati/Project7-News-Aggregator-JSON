@@ -14,8 +14,9 @@ import "../assets/index.css";
 const Home = () => {
   return (
     <div className="">
-      <div className="">
+      <div className=" d-flex flex-column justify-content-center align-items-center mb-5">
         <Hero />
+        <AddsBanner />
       </div>
       <Container>
         <Row>

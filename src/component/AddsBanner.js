@@ -5,10 +5,13 @@ const AddsBanner = () => {
   return (
     <div className="banner">
       <div className="banner-body">
-        <p className="text-light">استعرض مهاراتك في كرة القدم</p>
+        <p className="text-light">
+          لكل محبّي التكنولوجيا.. لشبابنا وشاباتنا المبتكرين، فرصتكم للمشاركة في
+          5G الهاكاثون من Orange Innovation Hub لعرض ابتكاراتكم وإبداعاتكم!
+        </p>
         <Button
           style={{
-            backgroundColor: "orange",
+            backgroundColor: "#f07c00",
             border: "none",
             borderRadius: "0",
           }}
