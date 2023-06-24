@@ -51,6 +51,7 @@ width:30rem;
 
 
 }
+
 .hero-container{
   height: 85vh;
   width: 100%;
@@ -120,7 +121,7 @@ width:30rem;
 /*banner style start*/
 .banner{
   
-  width: 50%;
+  width: 100%;
   height: 10rem;
   background-image: url('../../public/images/orange5G.jpg');
   background-position: center;

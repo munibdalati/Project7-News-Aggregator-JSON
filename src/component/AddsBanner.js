@@ -3,7 +3,7 @@ import "../assets/index.css";
 
 const AddsBanner = () => {
   return (
-    <div className="banner">
+    <div className="banner container">
       <div className="banner-body p-4">
         <p className="text-light">
           لكل محبّي التكنولوجيا.. لشبابنا وشاباتنا المبتكرين، فرصتكم للمشاركة في
