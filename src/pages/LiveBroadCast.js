@@ -3,6 +3,7 @@ import "../assets/index.css";
 import { Col, Container } from "react-bootstrap";
 import Card from "react-bootstrap/Card";
 import Row from "react-bootstrap/Row";
+import AddsBanner from "../component/AddsBanner";
 
 import ListGroup from "react-bootstrap/ListGroup";
 const newsAgencies = [
@@ -51,7 +52,8 @@ const LiveBroadCast = () => {
       >
         قنوات البث المباشر
       </p>
-      <Row className="d-flex  justify-content-between align-items-center gap-4 ">
+
+      <Row className="d-flex  justify-content-between align-items-center gap-4 mb-3">
         {newsAgencies.map((newsAgency) => (
           <Col className="text-center d-flex justify-content-center align-items-center">
             <Card className="mb-5" style={{ width: "15rem" }}>
@@ -68,6 +70,7 @@ const LiveBroadCast = () => {
             </Card>
           </Col>
         ))}
+        <AddsBanner />
       </Row>
     </Container>
   );

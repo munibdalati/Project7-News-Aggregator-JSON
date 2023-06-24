@@ -69,7 +69,7 @@ const Header = () => {
 
       {/* Second section */}
       <Row>
-        <Navbar className="head-nav px-5" expand="lg">
+        <Navbar className="head-nav px-3" expand="lg">
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
 
           <Navbar.Collapse id="basic-navbar-nav">
