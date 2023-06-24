@@ -8,6 +8,7 @@ import Details from "./Details";
 import SignIn from "./SignIn";
 import SignUp from "./SignUp";
 import NewDetails from "./NewDetails";
+import Footer from "../component/Footer";
 import "../assets/index.css";
 
 const Layout = () => {
@@ -22,6 +23,7 @@ const Layout = () => {
         <Route path="/signup" Component={SignUp} />
         <Route path="/:type" Component={Category} />
       </Routes>
+      <Footer />
     </BrowserRouter>
   );
 };
