@@ -25,6 +25,9 @@
     margin-right: 40%;
     margin-top: 40px;
   }
+  .footer-images img{
+width: 8rem;
+  }
 
   @media only screen and (max-width: 769px) {
     .footer-social-media-row{
