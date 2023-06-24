@@ -10,7 +10,6 @@ import SignIn from "./SignIn";
 import SignUp from "./SignUp";
 import NewDetails from "./NewDetails";
 import "../assets/index.css";
-import Footer from "../component/Footer";
 import "../assets/index.css";
 import LiveBroadCast from "./LiveBroadCast";
 
